@@ -1,6 +1,29 @@
 import streamlit as st
 import pandas as pd
 
+import hashlib
+
+PASSWORD = "KantarVacation"
+
+def check_password():
+    def password_entered():
+        if st.session_state["password"] == PASSWORD:
+            st.session_state["password_correct"] = True
+            del st.session_state["password"]
+        else:
+            st.session_state["password_correct"] = False
+
+    if "password_correct" not in st.session_state:
+        st.text_input("🔒 Please enter a password:", type="password", on_change=password_entered, key="password")
+        st.stop()
+    elif not st.session_state["password_correct"]:
+        st.text_input("🔒 Please enter a password:", type="password", on_change=password_entered, key="password")
+        st.error("😕 Wrong password")
+        st.stop()
+
+check_password()  
+
+
 def local_css(file_path):
     with open(file_path) as f:
         st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
