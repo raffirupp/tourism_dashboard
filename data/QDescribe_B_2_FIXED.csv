@@ -1,0 +1,199 @@
+Question_Code,Country,Adjective,Rating_Level,Percentage
+QDescribe_B,Relaxing,Total (A),Does not at all describe my vacation,0.57024697
+QDescribe_B,Relaxing,Total (A),Partially describes my vacation,0.0583644
+QDescribe_B,Relaxing,Total (A),Describes my vacation perfectly,0.21411929
+QDescribe_B,Relaxing,SG (B),Does not at all describe my vacation,0.69919633
+QDescribe_B,Relaxing,SG (B),Partially describes my vacation,0.07462687
+QDescribe_B,Relaxing,SG (B),Describes my vacation perfectly,0.1836969
+QDescribe_B,Relaxing,UK (C),Does not at all describe my vacation,0.57280385
+QDescribe_B,Relaxing,UK (C),Partially describes my vacation,0.0589651
+QDescribe_B,Relaxing,UK (C),Describes my vacation perfectly,0.2166065
+QDescribe_B,Relaxing,US (D),Does not at all describe my vacation,0.53584906
+QDescribe_B,Relaxing,US (D),Partially describes my vacation,0.08553459000000001
+QDescribe_B,Relaxing,US (D),Describes my vacation perfectly,0.2490566
+QDescribe_B,Relaxing,CN (E),Does not at all describe my vacation,0.50455927
+QDescribe_B,Relaxing,CN (E),Partially describes my vacation,0.0212766
+QDescribe_B,Relaxing,CN (E),Describes my vacation perfectly,0.14387031
+QDescribe_B,Relaxing,KR (F),Does not at all describe my vacation,0.59619687
+QDescribe_B,Relaxing,KR (F),Partially describes my vacation,0.03914989
+QDescribe_B,Relaxing,KR (F),Describes my vacation perfectly,0.08836689
+QDescribe_B,Relaxing,UAE (G),Does not at all describe my vacation,0.45484222
+QDescribe_B,Relaxing,UAE (G),Partially describes my vacation,0.05875952
+QDescribe_B,Relaxing,UAE (G),Describes my vacation perfectly,0.34276387
+QDescribe_B,Relaxing,BR (H),Does not at all describe my vacation,0.6228915700000001
+QDescribe_B,Relaxing,BR (H),Partially describes my vacation,0.04939759
+QDescribe_B,Relaxing,BR (H),Describes my vacation perfectly,0.25662651
+QDescribe_B,Relaxing,FR (I),Does not at all describe my vacation,0.49168646
+QDescribe_B,Relaxing,FR (I),Partially describes my vacation,0.05344418
+QDescribe_B,Relaxing,FR (I),Describes my vacation perfectly,0.20902613
+QDescribe_B,Relaxing,DE (J),Does not at all describe my vacation,0.6269938700000001
+QDescribe_B,Relaxing,DE (J),Partially describes my vacation,0.06871166
+QDescribe_B,Relaxing,DE (J),Describes my vacation perfectly,0.2196319
+QDescribe_B,Relaxing,AU (K),Does not at all describe my vacation,0.61625
+QDescribe_B,Relaxing,AU (K),Partially describes my vacation,0.08375
+QDescribe_B,Relaxing,AU (K),Describes my vacation perfectly,0.245
+QDescribe_B,Tame,Total (A),Does not at all describe my vacation,0.09203169000000001
+QDescribe_B,Tame,Total (A),Partially describes my vacation,0.23392358
+QDescribe_B,Tame,Total (A),Describes my vacation perfectly,0.2000233
+QDescribe_B,Tame,SG (B),Does not at all describe my vacation,0.03559127
+QDescribe_B,Tame,SG (B),Partially describes my vacation,0.33524684
+QDescribe_B,Tame,SG (B),Describes my vacation perfectly,0.26636051
+QDescribe_B,Tame,UK (C),Does not at all describe my vacation,0.04693141
+QDescribe_B,Tame,UK (C),Partially describes my vacation,0.19133574
+QDescribe_B,Tame,UK (C),Describes my vacation perfectly,0.14320096
+QDescribe_B,Tame,US (D),Does not at all describe my vacation,0.07798742
+QDescribe_B,Tame,US (D),Partially describes my vacation,0.17610063
+QDescribe_B,Tame,US (D),Describes my vacation perfectly,0.22264151
+QDescribe_B,Tame,CN (E),Does not at all describe my vacation,0.02026342
+QDescribe_B,Tame,CN (E),Partially describes my vacation,0.26342452
+QDescribe_B,Tame,CN (E),Describes my vacation perfectly,0.25227964
+QDescribe_B,Tame,KR (F),Does not at all describe my vacation,0.0458613
+QDescribe_B,Tame,KR (F),Partially describes my vacation,0.2393736
+QDescribe_B,Tame,KR (F),Describes my vacation perfectly,0.10290828
+QDescribe_B,Tame,UAE (G),Does not at all describe my vacation,0.11425462
+QDescribe_B,Tame,UAE (G),Partially describes my vacation,0.22198041
+QDescribe_B,Tame,UAE (G),Describes my vacation perfectly,0.3297061999999999
+QDescribe_B,Tame,BR (H),Does not at all describe my vacation,0.09638553999999999
+QDescribe_B,Tame,BR (H),Partially describes my vacation,0.21084337
+QDescribe_B,Tame,BR (H),Describes my vacation perfectly,0.22650602
+QDescribe_B,Tame,FR (I),Does not at all describe my vacation,0.38123515
+QDescribe_B,Tame,FR (I),Partially describes my vacation,0.24703088
+QDescribe_B,Tame,FR (I),Describes my vacation perfectly,0.13776722
+QDescribe_B,Tame,DE (J),Does not at all describe my vacation,0.03680982
+QDescribe_B,Tame,DE (J),Partially describes my vacation,0.27484663
+QDescribe_B,Tame,DE (J),Describes my vacation perfectly,0.14846626
+QDescribe_B,Tame,AU (K),Does not at all describe my vacation,0.07625
+QDescribe_B,Tame,AU (K),Partially describes my vacation,0.165
+QDescribe_B,Tame,AU (K),Describes my vacation perfectly,0.15
+QDescribe_B,Luxurious,Total (A),Does not at all describe my vacation,0.13769804
+QDescribe_B,Luxurious,Total (A),Partially describes my vacation,0.25209692
+QDescribe_B,Luxurious,Total (A),Describes my vacation perfectly,0.49965051
+QDescribe_B,Luxurious,SG (B),Does not at all describe my vacation,0.10447761
+QDescribe_B,Luxurious,SG (B),Partially describes my vacation,0.3880597
+QDescribe_B,Luxurious,SG (B),Describes my vacation perfectly,0.55453502
+QDescribe_B,Luxurious,UK (C),Does not at all describe my vacation,0.16967509
+QDescribe_B,Luxurious,UK (C),Partially describes my vacation,0.25872443
+QDescribe_B,Luxurious,UK (C),Describes my vacation perfectly,0.52587244
+QDescribe_B,Luxurious,US (D),Does not at all describe my vacation,0.14591195
+QDescribe_B,Luxurious,US (D),Partially describes my vacation,0.23144654
+QDescribe_B,Luxurious,US (D),Describes my vacation perfectly,0.5081761
+QDescribe_B,Luxurious,CN (E),Does not at all describe my vacation,0.11550152
+QDescribe_B,Luxurious,CN (E),Partially describes my vacation,0.19554205
+QDescribe_B,Luxurious,CN (E),Describes my vacation perfectly,0.40324215
+QDescribe_B,Luxurious,KR (F),Does not at all describe my vacation,0.1163311
+QDescribe_B,Luxurious,KR (F),Partially describes my vacation,0.13870246
+QDescribe_B,Luxurious,KR (F),Describes my vacation perfectly,0.51230425
+QDescribe_B,Luxurious,UAE (G),Does not at all describe my vacation,0.29706202
+QDescribe_B,Luxurious,UAE (G),Partially describes my vacation,0.29488575
+QDescribe_B,Luxurious,UAE (G),Describes my vacation perfectly,0.62132753
+QDescribe_B,Luxurious,BR (H),Does not at all describe my vacation,0.12650602
+QDescribe_B,Luxurious,BR (H),Partially describes my vacation,0.21686747
+QDescribe_B,Luxurious,BR (H),Describes my vacation perfectly,0.6072289200000001
+QDescribe_B,Luxurious,FR (I),Does not at all describe my vacation,0.06650831
+QDescribe_B,Luxurious,FR (I),Partially describes my vacation,0.16864608
+QDescribe_B,Luxurious,FR (I),Describes my vacation perfectly,0.32304038
+QDescribe_B,Luxurious,DE (J),Does not at all describe my vacation,0.10920245
+QDescribe_B,Luxurious,DE (J),Partially describes my vacation,0.31779141
+QDescribe_B,Luxurious,DE (J),Describes my vacation perfectly,0.43680982
+QDescribe_B,Luxurious,AU (K),Does not at all describe my vacation,0.11625
+QDescribe_B,Luxurious,AU (K),Partially describes my vacation,0.3225
+QDescribe_B,Luxurious,AU (K),Describes my vacation perfectly,0.5075
+QDescribe_B,Exotic,Total (A),Does not at all describe my vacation,0.0971575
+QDescribe_B,Exotic,Total (A),Partially describes my vacation,0.27877446
+QDescribe_B,Exotic,Total (A),Describes my vacation perfectly,0.04403541
+QDescribe_B,Exotic,SG (B),Does not at all describe my vacation,0.06429392
+QDescribe_B,Exotic,SG (B),Partially describes my vacation,0.21010333
+QDescribe_B,Exotic,SG (B),Describes my vacation perfectly,0.05625718
+QDescribe_B,Exotic,UK (C),Does not at all describe my vacation,0.07701564
+QDescribe_B,Exotic,UK (C),Partially describes my vacation,0.23104693
+QDescribe_B,Exotic,UK (C),Describes my vacation perfectly,0.03610108
+QDescribe_B,Exotic,US (D),Does not at all describe my vacation,0.09433962
+QDescribe_B,Exotic,US (D),Partially describes my vacation,0.29811321
+QDescribe_B,Exotic,US (D),Describes my vacation perfectly,0.05031447
+QDescribe_B,Exotic,CN (E),Does not at all describe my vacation,0.16514691
+QDescribe_B,Exotic,CN (E),Partially describes my vacation,0.14994934
+QDescribe_B,Exotic,CN (E),Describes my vacation perfectly,0.03343465
+QDescribe_B,Exotic,KR (F),Does not at all describe my vacation,0.15436242
+QDescribe_B,Exotic,KR (F),Partially describes my vacation,0.31767338
+QDescribe_B,Exotic,KR (F),Describes my vacation perfectly,0.04474273
+QDescribe_B,Exotic,UAE (G),Does not at all describe my vacation,0.07834603000000001
+QDescribe_B,Exotic,UAE (G),Partially describes my vacation,0.2437432
+QDescribe_B,Exotic,UAE (G),Describes my vacation perfectly,0.04134929
+QDescribe_B,Exotic,BR (H),Does not at all describe my vacation,0.07710842999999999
+QDescribe_B,Exotic,BR (H),Partially describes my vacation,0.48554217
+QDescribe_B,Exotic,BR (H),Describes my vacation perfectly,0.0373494
+QDescribe_B,Exotic,FR (I),Does not at all describe my vacation,0.09501188
+QDescribe_B,Exotic,FR (I),Partially describes my vacation,0.28503563
+QDescribe_B,Exotic,FR (I),Describes my vacation perfectly,0.05938242
+QDescribe_B,Exotic,DE (J),Does not at all describe my vacation,0.07361963
+QDescribe_B,Exotic,DE (J),Partially describes my vacation,0.3398773
+QDescribe_B,Exotic,DE (J),Describes my vacation perfectly,0.0208589
+QDescribe_B,Exotic,AU (K),Does not at all describe my vacation,0.0775
+QDescribe_B,Exotic,AU (K),Partially describes my vacation,0.25625
+QDescribe_B,Exotic,AU (K),Describes my vacation perfectly,0.0625
+QDescribe_B,Rejuvenating,Total (A),Does not at all describe my vacation,0.27516309
+QDescribe_B,Rejuvenating,Total (A),Partially describes my vacation,0.04473439
+QDescribe_B,Rejuvenating,Total (A),Describes my vacation perfectly,0.03448276
+QDescribe_B,Rejuvenating,SG (B),Does not at all describe my vacation,0.38920781
+QDescribe_B,Rejuvenating,SG (B),Partially describes my vacation,0.05625718
+QDescribe_B,Rejuvenating,SG (B),Describes my vacation perfectly,0.03559127
+QDescribe_B,Rejuvenating,UK (C),Does not at all describe my vacation,0.244284
+QDescribe_B,Rejuvenating,UK (C),Partially describes my vacation,0.04933815
+QDescribe_B,Rejuvenating,UK (C),Describes my vacation perfectly,0.03489771
+QDescribe_B,Rejuvenating,US (D),Does not at all describe my vacation,0.21509434
+QDescribe_B,Rejuvenating,US (D),Partially describes my vacation,0.0754717
+QDescribe_B,Rejuvenating,US (D),Describes my vacation perfectly,0.06540881
+QDescribe_B,Rejuvenating,CN (E),Does not at all describe my vacation,0.30091185
+QDescribe_B,Rejuvenating,CN (E),Partially describes my vacation,0.01317123
+QDescribe_B,Rejuvenating,CN (E),Describes my vacation perfectly,0.01519757
+QDescribe_B,Rejuvenating,KR (F),Does not at all describe my vacation,0.32102908
+QDescribe_B,Rejuvenating,KR (F),Partially describes my vacation,0.02348993
+QDescribe_B,Rejuvenating,KR (F),Describes my vacation perfectly,0.03914989
+QDescribe_B,Rejuvenating,UAE (G),Does not at all describe my vacation,0.2992383
+QDescribe_B,Rejuvenating,UAE (G),Partially describes my vacation,0.03699674
+QDescribe_B,Rejuvenating,UAE (G),Describes my vacation perfectly,0.03808487
+QDescribe_B,Rejuvenating,BR (H),Does not at all describe my vacation,0.20120482
+QDescribe_B,Rejuvenating,BR (H),Partially describes my vacation,0.04457831
+QDescribe_B,Rejuvenating,BR (H),Describes my vacation perfectly,0.02289157
+QDescribe_B,Rejuvenating,FR (I),Does not at all describe my vacation,0.35391924
+QDescribe_B,Rejuvenating,FR (I),Partially describes my vacation,0.02612827
+QDescribe_B,Rejuvenating,FR (I),Describes my vacation perfectly,0.02850356
+QDescribe_B,Rejuvenating,DE (J),Does not at all describe my vacation,0.12147239
+QDescribe_B,Rejuvenating,DE (J),Partially describes my vacation,0.05889571
+QDescribe_B,Rejuvenating,DE (J),Describes my vacation perfectly,0.03190184
+QDescribe_B,Rejuvenating,AU (K),Does not at all describe my vacation,0.2825
+QDescribe_B,Rejuvenating,AU (K),Partially describes my vacation,0.07375
+QDescribe_B,Rejuvenating,AU (K),Describes my vacation perfectly,0.0375
+QDescribe_B,Lonely,Total (A),Does not at all describe my vacation,0.04077353
+QDescribe_B,Lonely,Total (A),Partially describes my vacation,0.00792171
+QDescribe_B,Lonely,Total (A),Describes my vacation perfectly,3.0812
+QDescribe_B,Lonely,SG (B),Does not at all describe my vacation,0.03559127
+QDescribe_B,Lonely,SG (B),Partially describes my vacation,0.00344432
+QDescribe_B,Lonely,SG (B),Describes my vacation perfectly,3.4925
+QDescribe_B,Lonely,UK (C),Does not at all describe my vacation,0.02888087
+QDescribe_B,Lonely,UK (C),Partially describes my vacation,0.01083032
+QDescribe_B,Lonely,UK (C),Describes my vacation perfectly,2.8965
+QDescribe_B,Lonely,US (D),Does not at all describe my vacation,0.05786164000000001
+QDescribe_B,Lonely,US (D),Partially describes my vacation,0.0163522
+QDescribe_B,Lonely,US (D),Describes my vacation perfectly,3.1057
+QDescribe_B,Lonely,CN (E),Does not at all describe my vacation,0.03242148
+QDescribe_B,Lonely,CN (E),Partially describes my vacation,0.00101317
+QDescribe_B,Lonely,CN (E),Describes my vacation perfectly,2.6312
+QDescribe_B,Lonely,KR (F),Does not at all describe my vacation,0.01789709
+QDescribe_B,Lonely,KR (F),Partially describes my vacation,0.01118568
+QDescribe_B,Lonely,KR (F),Describes my vacation perfectly,2.8087
+QDescribe_B,Lonely,UAE (G),Does not at all describe my vacation,0.06093580000000001
+QDescribe_B,Lonely,UAE (G),Partially describes my vacation,0.00326442
+QDescribe_B,Lonely,UAE (G),Describes my vacation perfectly,3.5375
+QDescribe_B,Lonely,BR (H),Does not at all describe my vacation,0.04578313
+QDescribe_B,Lonely,BR (H),Partially describes my vacation,0.0060241
+QDescribe_B,Lonely,BR (H),Describes my vacation perfectly,3.3337
+QDescribe_B,Lonely,FR (I),Does not at all describe my vacation,0.05463183
+QDescribe_B,Lonely,FR (I),Partially describes my vacation,0.008313540000000001
+QDescribe_B,Lonely,FR (I),Describes my vacation perfectly,2.9893
+QDescribe_B,Lonely,DE (J),Does not at all describe my vacation,0.03435583
+QDescribe_B,Lonely,DE (J),Partially describes my vacation,0.00981595
+QDescribe_B,Lonely,DE (J),Describes my vacation perfectly,2.9301
+QDescribe_B,Lonely,AU (K),Does not at all describe my vacation,0.04125
+QDescribe_B,Lonely,AU (K),Partially describes my vacation,0.01125
+QDescribe_B,Lonely,AU (K),Describes my vacation perfectly,3.125

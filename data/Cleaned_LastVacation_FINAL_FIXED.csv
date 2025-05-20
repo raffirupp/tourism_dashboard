@@ -1,0 +1,925 @@
+Question_Code,Question_Text,Country,Answer,Percentage
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",Total,In the last week,0.08661281000000001
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",Total,In the last month,0.20450004
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",Total,In the last 3 months,0.2595778
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",Total,In the last 6 months,0.20319694
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",Total,In the last 12 months,0.1023369
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",Total,Longer than 12 months ago,0.14377552
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",Total,Never,0.0
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",SG,In the last week,0.07794803
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",SG,In the last month,0.30846103
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",SG,In the last 3 months,0.21319121
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",SG,In the last 6 months,0.17921386
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",SG,In the last 12 months,0.09993338
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",SG,Longer than 12 months ago,0.1212525
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",SG,Never,0.0
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",UK,In the last week,0.06866667
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",UK,In the last month,0.16466667
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",UK,In the last 3 months,0.276
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",UK,In the last 6 months,0.224
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",UK,In the last 12 months,0.09733333
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",UK,Longer than 12 months ago,0.16933333
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",UK,Never,0.0
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",US,In the last week,0.13790806
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",US,In the last month,0.18720853
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",US,In the last 3 months,0.22251832
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",US,In the last 6 months,0.15056629
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",US,In the last 12 months,0.10393071
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",US,Longer than 12 months ago,0.19786809
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",US,Never,0.0
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",CN,In the last week,0.1007984
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",CN,In the last month,0.41217565
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",CN,In the last 3 months,0.32934132
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",CN,In the last 6 months,0.10179641
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",CN,In the last 12 months,0.04091816
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",CN,Longer than 12 months ago,0.01497006
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",CN,Never,0.0
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",KR,In the last week,0.05394605
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",KR,In the last month,0.18981019
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",KR,In the last 3 months,0.31668332
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",KR,In the last 6 months,0.25274725
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",KR,In the last 12 months,0.07992008
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",KR,Longer than 12 months ago,0.10689311
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",KR,Never,0.0
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",UAE,In the last week,0.12163509
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",UAE,In the last month,0.22931206
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",UAE,In the last 3 months,0.27617149
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",UAE,In the last 6 months,0.20139581
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",UAE,In the last 12 months,0.08773679
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",UAE,Longer than 12 months ago,0.08374875
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",UAE,Never,0.0
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",BR,In the last week,0.116
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",BR,In the last month,0.12
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",BR,In the last 3 months,0.196
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",BR,In the last 6 months,0.21
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",BR,In the last 12 months,0.188
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",BR,Longer than 12 months ago,0.17
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",BR,Never,0.0
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",FR,In the last week,0.05389222
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",FR,In the last month,0.1237525
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",FR,In the last 3 months,0.29840319
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",FR,In the last 6 months,0.26946108
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",FR,In the last 12 months,0.09481038
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",FR,Longer than 12 months ago,0.15968064
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",FR,Never,0.0
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",DE,In the last week,0.05194805
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",DE,In the last month,0.15184815
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",DE,In the last 3 months,0.27172827
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",DE,In the last 6 months,0.24875125
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",DE,In the last 12 months,0.08991009
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",DE,Longer than 12 months ago,0.18581419
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",DE,Never,0.0
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",AU,In the last week,0.071
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",AU,In the last month,0.134
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",AU,In the last 3 months,0.229
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",AU,In the last 6 months,0.222
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",AU,In the last 12 months,0.144
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",AU,Longer than 12 months ago,0.2
+QWhen,"When did you most recently take a trip or vacation involving at least one overnight stay, for leisure purposes, if ever?",AU,Never,0.0
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,Total,I could not afford to travel in the past 12 months,0.39456193
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,Total,I am not interested in traveling,0.07250755
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,Total,I am saving for an upcoming trip,0.08277946
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,Total,I travelled the year before instead,0.03867069
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,Total,I had commitments which prevented me from traveling,0.14441088
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,Total,Family or personal reason,0.18670695
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,Total,Some other reason,0.08036254
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,SG,I could not afford to travel in the past 12 months,0.19230769
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,SG,I am not interested in traveling,0.09340659000000001
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,SG,I am saving for an upcoming trip,0.14285714
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,SG,I travelled the year before instead,0.05494505
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,SG,I had commitments which prevented me from traveling,0.23626374
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,SG,Family or personal reason,0.18681319
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,SG,Some other reason,0.09340659000000001
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,UK,I could not afford to travel in the past 12 months,0.4212598400000001
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,UK,I am not interested in traveling,0.10629921
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,UK,I am saving for an upcoming trip,0.05905512
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,UK,I travelled the year before instead,0.01181102
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,UK,I had commitments which prevented me from traveling,0.12992126
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,UK,Family or personal reason,0.17322835
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,UK,Some other reason,0.0984252
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,US,I could not afford to travel in the past 12 months,0.43097643
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,US,I am not interested in traveling,0.08754208999999999
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,US,I am saving for an upcoming trip,0.05050505
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,US,I travelled the year before instead,0.04377104
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,US,I had commitments which prevented me from traveling,0.11111111
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,US,Family or personal reason,0.18518519
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,US,Some other reason,0.09090909
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,CN,I could not afford to travel in the past 12 months,0.0
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,CN,I am not interested in traveling,0.0
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,CN,I am saving for an upcoming trip,0.06666667
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,CN,I travelled the year before instead,0.2
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,CN,I had commitments which prevented me from traveling,0.26666667
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,CN,Family or personal reason,0.33333333
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,CN,Some other reason,0.13333333
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,KR,I could not afford to travel in the past 12 months,0.47663551
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,KR,I am not interested in traveling,0.09345794
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,KR,I am saving for an upcoming trip,0.07476636
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,KR,I travelled the year before instead,0.07476636
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,KR,I had commitments which prevented me from traveling,0.04672897
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,KR,Family or personal reason,0.17757009
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,KR,Some other reason,0.05607477
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,UAE,I could not afford to travel in the past 12 months,0.23809524
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,UAE,I am not interested in traveling,0.01190476
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,UAE,I am saving for an upcoming trip,0.08333333
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,UAE,I travelled the year before instead,0.08333333
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,UAE,I had commitments which prevented me from traveling,0.33333333
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,UAE,Family or personal reason,0.21428571
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,UAE,Some other reason,0.03571429
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,BR,I could not afford to travel in the past 12 months,0.47647059
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,BR,I am not interested in traveling,0.00588235
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,BR,I am saving for an upcoming trip,0.07647058999999999
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,BR,I travelled the year before instead,0.04117647
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,BR,I had commitments which prevented me from traveling,0.18235294
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,BR,Family or personal reason,0.14705882
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,BR,Some other reason,0.07058824000000001
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,FR,I could not afford to travel in the past 12 months,0.45
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,FR,I am not interested in traveling,0.025
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,FR,I am saving for an upcoming trip,0.13125
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,FR,I travelled the year before instead,0.00625
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,FR,I had commitments which prevented me from traveling,0.0625
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,FR,Family or personal reason,0.275
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,FR,Some other reason,0.05
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,DE,I could not afford to travel in the past 12 months,0.38172043
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,DE,I am not interested in traveling,0.08064516
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,DE,I am saving for an upcoming trip,0.08064516
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,DE,I travelled the year before instead,0.02150538
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,DE,I had commitments which prevented me from traveling,0.11290323
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,DE,Family or personal reason,0.19892473
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,DE,Some other reason,0.12365591
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,AU,I could not afford to travel in the past 12 months,0.44
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,AU,I am not interested in traveling,0.095
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,AU,I am saving for an upcoming trip,0.08
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,AU,I travelled the year before instead,0.04
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,AU,I had commitments which prevented me from traveling,0.155
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,AU,Family or personal reason,0.14
+QWhyno,Which of the following BEST describes why you did not take a vacation within the last 12 months?,AU,Some other reason,0.05
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,Total,1 night,0.11870942
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,Total,2-4 nights,0.42542614
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,Total,5-7 nights,0.28743912
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,Total,8-14 nights,0.11769481
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,Total,15 or more nights,0.05073051999999999
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,Total,hVacationType: AUTOPUNCH FROM QDURATION,
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,Total,Total,
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,Total,Overnight stay,0.11870942
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,Total,Short trip,0.42542614
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,Total,Medium trip,0.28743912
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,Total,Long trip,0.11769481
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,Total,Extra long trip,0.05073051999999999
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,SG,1 night,0.04776346
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,SG,2-4 nights,0.3570887
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,SG,5-7 nights,0.41243366
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,SG,8-14 nights,0.14329037
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,SG,15 or more nights,0.03942381
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,SG,hVacationType: AUTOPUNCH FROM QDURATION,
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,SG,Total,
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,SG,Overnight stay,0.04776346
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,SG,Short trip,0.3570887
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,SG,Medium trip,0.41243366
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,SG,Long trip,0.14329037
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,SG,Extra long trip,0.03942381
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,UK,1 night,0.10513644
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,UK,2-4 nights,0.41332263
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,UK,5-7 nights,0.28491172
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,UK,8-14 nights,0.14606742
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,UK,15 or more nights,0.0505618
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,UK,hVacationType: AUTOPUNCH FROM QDURATION,
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,UK,Total,
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,UK,Overnight stay,0.10513644
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,UK,Short trip,0.41332263
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,UK,Medium trip,0.28491172
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,UK,Long trip,0.14606742
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,UK,Extra long trip,0.0505618
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,US,1 night,0.16528239
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,US,2-4 nights,0.5066445199999999
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,US,5-7 nights,0.2333887
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,US,8-14 nights,0.06810631
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,US,15 or more nights,0.02657807
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,US,hVacationType: AUTOPUNCH FROM QDURATION,
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,US,Total,
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,US,Overnight stay,0.16528239
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,US,Short trip,0.5066445199999999
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,US,Medium trip,0.2333887
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,US,Long trip,0.06810631
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,US,Extra long trip,0.02657807
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,CN,1 night,0.10536981
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,CN,2-4 nights,0.52178318
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,CN,5-7 nights,0.32522796
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,CN,8-14 nights,0.03343465
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,CN,15 or more nights,0.0141844
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,CN,hVacationType: AUTOPUNCH FROM QDURATION,
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,CN,Total,
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,CN,Overnight stay,0.10536981
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,CN,Short trip,0.52178318
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,CN,Medium trip,0.32522796
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,CN,Long trip,0.03343465
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,CN,Extra long trip,0.0141844
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,KR,1 night,0.31096197
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,KR,2-4 nights,0.52796421
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,KR,5-7 nights,0.11521253
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,KR,8-14 nights,0.03355705
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,KR,15 or more nights,0.01230425
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,KR,hVacationType: AUTOPUNCH FROM QDURATION,
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,KR,Total,
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,KR,Overnight stay,0.31096197
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,KR,Short trip,0.52796421
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,KR,Medium trip,0.11521253
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,KR,Long trip,0.03355705
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,KR,Extra long trip,0.01230425
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,UAE,1 night,0.13819369
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,UAE,2-4 nights,0.4341675699999999
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,UAE,5-7 nights,0.25788901
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,UAE,8-14 nights,0.09466812
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,UAE,15 or more nights,0.07508161000000001
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,UAE,hVacationType: AUTOPUNCH FROM QDURATION,
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,UAE,Total,
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,UAE,Overnight stay,0.13819369
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,UAE,Short trip,0.4341675699999999
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,UAE,Medium trip,0.25788901
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,UAE,Long trip,0.09466812
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,UAE,Extra long trip,0.07508161000000001
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,BR,1 night,0.10240964
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,BR,2-4 nights,0.45662651
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,BR,5-7 nights,0.27951807
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,BR,8-14 nights,0.1
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,BR,15 or more nights,0.06144578
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,BR,hVacationType: AUTOPUNCH FROM QDURATION,
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,BR,Total,
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,BR,Overnight stay,0.10240964
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,BR,Short trip,0.45662651
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,BR,Medium trip,0.27951807
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,BR,Long trip,0.1
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,BR,Extra long trip,0.06144578
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,FR,1 night,0.06175772
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,FR,2-4 nights,0.28622328
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,FR,5-7 nights,0.34441805
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,FR,8-14 nights,0.21021378
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,FR,15 or more nights,0.09738717
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,FR,hVacationType: AUTOPUNCH FROM QDURATION,
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,FR,Total,
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,FR,Overnight stay,0.06175772
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,FR,Short trip,0.28622328
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,FR,Medium trip,0.34441805
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,FR,Long trip,0.21021378
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,FR,Extra long trip,0.09738717
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,DE,1 night,0.07484663
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,DE,2-4 nights,0.31656442
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,DE,5-7 nights,0.31656442
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,DE,8-14 nights,0.22944785
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,DE,15 or more nights,0.06257669
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,DE,hVacationType: AUTOPUNCH FROM QDURATION,
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,DE,Total,
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,DE,Overnight stay,0.07484663
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,DE,Short trip,0.31656442
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,DE,Medium trip,0.31656442
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,DE,Long trip,0.22944785
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,DE,Extra long trip,0.06257669
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,AU,1 night,0.0875
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,AU,2-4 nights,0.41625
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,AU,5-7 nights,0.265
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,AU,8-14 nights,0.1375
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,AU,15 or more nights,0.09375
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,AU,hVacationType: AUTOPUNCH FROM QDURATION,
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,AU,Total,
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,AU,Overnight stay,0.0875
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,AU,Short trip,0.41625
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,AU,Medium trip,0.265
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,AU,Long trip,0.1375
+QDuration,How many nights away from home did you spend on your MOST RECENT vacation?,AU,Extra long trip,0.09375
+QWhere,Where did you travel to for your most recent vacation?,Total,"Domestically, within my country",0.59506899
+QWhere,Where did you travel to for your most recent vacation?,Total,"Internationally, outside my country",0.3497361999999999
+QWhere,Where did you travel to for your most recent vacation?,Total,Both domestically and internationally,0.05519481
+QWhere,Where did you travel to for your most recent vacation?,SG,"Domestically, within my country",0.24109174
+QWhere,Where did you travel to for your most recent vacation?,SG,"Internationally, outside my country",0.69825625
+QWhere,Where did you travel to for your most recent vacation?,SG,Both domestically and internationally,0.06065201
+QWhere,Where did you travel to for your most recent vacation?,UK,"Domestically, within my country",0.51123596
+QWhere,Where did you travel to for your most recent vacation?,UK,"Internationally, outside my country",0.45024077
+QWhere,Where did you travel to for your most recent vacation?,UK,Both domestically and internationally,0.03852327
+QWhere,Where did you travel to for your most recent vacation?,US,"Domestically, within my country",0.76162791
+QWhere,Where did you travel to for your most recent vacation?,US,"Internationally, outside my country",0.15697674
+QWhere,Where did you travel to for your most recent vacation?,US,Both domestically and internationally,0.08139535
+QWhere,Where did you travel to for your most recent vacation?,CN,"Domestically, within my country",0.86220871
+QWhere,Where did you travel to for your most recent vacation?,CN,"Internationally, outside my country",0.0597771
+QWhere,Where did you travel to for your most recent vacation?,CN,Both domestically and internationally,0.07801418
+QWhere,Where did you travel to for your most recent vacation?,KR,"Domestically, within my country",0.6991051500000001
+QWhere,Where did you travel to for your most recent vacation?,KR,"Internationally, outside my country",0.26957494
+QWhere,Where did you travel to for your most recent vacation?,KR,Both domestically and internationally,0.03131991
+QWhere,Where did you travel to for your most recent vacation?,UAE,"Domestically, within my country",0.42546246
+QWhere,Where did you travel to for your most recent vacation?,UAE,"Internationally, outside my country",0.46354733
+QWhere,Where did you travel to for your most recent vacation?,UAE,Both domestically and internationally,0.11099021
+QWhere,Where did you travel to for your most recent vacation?,BR,"Domestically, within my country",0.8337349399999999
+QWhere,Where did you travel to for your most recent vacation?,BR,"Internationally, outside my country",0.13253012
+QWhere,Where did you travel to for your most recent vacation?,BR,Both domestically and internationally,0.03373494
+QWhere,Where did you travel to for your most recent vacation?,FR,"Domestically, within my country",0.60570071
+QWhere,Where did you travel to for your most recent vacation?,FR,"Internationally, outside my country",0.3741092600000001
+QWhere,Where did you travel to for your most recent vacation?,FR,Both domestically and internationally,0.02019002
+QWhere,Where did you travel to for your most recent vacation?,DE,"Domestically, within my country",0.4453987699999999
+QWhere,Where did you travel to for your most recent vacation?,DE,"Internationally, outside my country",0.51288344
+QWhere,Where did you travel to for your most recent vacation?,DE,Both domestically and internationally,0.04171779
+QWhere,Where did you travel to for your most recent vacation?,AU,"Domestically, within my country",0.70125
+QWhere,Where did you travel to for your most recent vacation?,AU,"Internationally, outside my country",0.25875
+QWhere,Where did you travel to for your most recent vacation?,AU,Both domestically and internationally,0.04
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",Total,Hotel or resort,0.51521916
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",Total,Cruise ship,0.02972808
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",Total,Rental home or apartment,0.11373782
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",Total,Stay with friends or family,0.14163961
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",Total,Camping or caravan/RV/mobile home,0.05346997
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",Total,Vacation park,0.04839692
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",Total,Guesthouse or B&B,0.08492289
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",Total,Other,0.01288555
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",SG,Hotel or resort,0.7361637600000001
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",SG,Cruise ship,0.0197119
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",SG,Rental home or apartment,0.06292646
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",SG,Stay with friends or family,0.08794541
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",SG,Camping or caravan/RV/mobile home,0.0121304
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",SG,Vacation park,0.01592115
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",SG,Guesthouse or B&B,0.05761941
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",SG,Other,0.0075815
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",UK,Hotel or resort,0.4670947
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",UK,Cruise ship,0.03210273
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",UK,Rental home or apartment,0.1364366
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",UK,Stay with friends or family,0.15248796
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",UK,Camping or caravan/RV/mobile home,0.070626
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",UK,Vacation park,0.05216693
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",UK,Guesthouse or B&B,0.07784912000000001
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",UK,Other,0.01123596
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",US,Hotel or resort,0.48006645
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",US,Cruise ship,0.04983389
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",US,Rental home or apartment,0.09136213
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",US,Stay with friends or family,0.17940199
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",US,Camping or caravan/RV/mobile home,0.06395349
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",US,Vacation park,0.07059801
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",US,Guesthouse or B&B,0.05315615
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",US,Other,0.01162791
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",CN,Hotel or resort,0.52887538
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",CN,Cruise ship,0.04356636
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",CN,Rental home or apartment,0.06585613
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",CN,Stay with friends or family,0.03242148
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",CN,Camping or caravan/RV/mobile home,0.05673759
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",CN,Vacation park,0.08409321
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",CN,Guesthouse or B&B,0.18844985
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",CN,Other,0.0
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",KR,Hotel or resort,0.68903803
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",KR,Cruise ship,0.00223714
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",KR,Rental home or apartment,0.01565996
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",KR,Stay with friends or family,0.12080537
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",KR,Camping or caravan/RV/mobile home,0.05033557
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",KR,Vacation park,0.01789709
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",KR,Guesthouse or B&B,0.07941834
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",KR,Other,0.0246085
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",UAE,Hotel or resort,0.56256801
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",UAE,Cruise ship,0.02176279
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",UAE,Rental home or apartment,0.09902067
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",UAE,Stay with friends or family,0.18607182
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",UAE,Camping or caravan/RV/mobile home,0.03264418
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",UAE,Vacation park,0.05875952
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",UAE,Guesthouse or B&B,0.02937976
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",UAE,Other,0.00979325
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",BR,Hotel or resort,0.37228916
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",BR,Cruise ship,0.02048193
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",BR,Rental home or apartment,0.15180723
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",BR,Stay with friends or family,0.23855422
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",BR,Camping or caravan/RV/mobile home,0.01566265
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",BR,Vacation park,0.04096386
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",BR,Guesthouse or B&B,0.13975904
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",BR,Other,0.02048193
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",FR,Hotel or resort,0.28266033
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",FR,Cruise ship,0.01543943
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",FR,Rental home or apartment,0.22921615
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",FR,Stay with friends or family,0.18052257
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",FR,Camping or caravan/RV/mobile home,0.12589074
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",FR,Vacation park,0.05463183
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",FR,Guesthouse or B&B,0.09263658
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",FR,Other,0.01900238
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",DE,Hotel or resort,0.46134969
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",DE,Cruise ship,0.04785275999999999
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",DE,Rental home or apartment,0.22822086
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",DE,Stay with friends or family,0.08711656
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",DE,Camping or caravan/RV/mobile home,0.05889571
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",DE,Vacation park,0.03067485
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",DE,Guesthouse or B&B,0.07116564
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",DE,Other,0.01472393
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",AU,Hotel or resort,0.46125
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",AU,Cruise ship,0.04125
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",AU,Rental home or apartment,0.10375
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",AU,Stay with friends or family,0.1775
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",AU,Camping or caravan/RV/mobile home,0.06
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",AU,Vacation park,0.06
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",AU,Guesthouse or B&B,0.08
+QAccom,"Still thinking about your most recent vacation, what was the MAIN type of accommodation that you stayed in?",AU,Other,0.01625
+QFeat,Which features or attractions did you visit during your most recent vacation?,Total,Beach,0.45900974
+QFeat,Which features or attractions did you visit during your most recent vacation?,Total,Lake or river,0.2325487
+QFeat,Which features or attractions did you visit during your most recent vacation?,Total,City,0.50344968
+QFeat,Which features or attractions did you visit during your most recent vacation?,Total,Cultural or historical sites,0.37510146
+QFeat,Which features or attractions did you visit during your most recent vacation?,Total,Countryside,0.27140828
+QFeat,Which features or attractions did you visit during your most recent vacation?,Total,Adventure or outdoor activities,0.25202922
+QFeat,Which features or attractions did you visit during your most recent vacation?,Total,Forest,0.1898336
+QFeat,Which features or attractions did you visit during your most recent vacation?,Total,Safari or wildlife,0.10795455
+QFeat,Which features or attractions did you visit during your most recent vacation?,Total,Amusement or water park,0.23356331
+QFeat,Which features or attractions did you visit during your most recent vacation?,Total,Other,0.02506088
+QFeat,Which features or attractions did you visit during your most recent vacation?,Total,Count,2.65
+QFeat,Which features or attractions did you visit during your most recent vacation?,SG,Beach,0.40788476
+QFeat,Which features or attractions did you visit during your most recent vacation?,SG,Lake or river,0.18802123
+QFeat,Which features or attractions did you visit during your most recent vacation?,SG,City,0.69977255
+QFeat,Which features or attractions did you visit during your most recent vacation?,SG,Cultural or historical sites,0.50796058
+QFeat,Which features or attractions did you visit during your most recent vacation?,SG,Countryside,0.24412434
+QFeat,Which features or attractions did you visit during your most recent vacation?,SG,Adventure or outdoor activities,0.36087945
+QFeat,Which features or attractions did you visit during your most recent vacation?,SG,Forest,0.11448067
+QFeat,Which features or attractions did you visit during your most recent vacation?,SG,Safari or wildlife,0.09097801
+QFeat,Which features or attractions did you visit during your most recent vacation?,SG,Amusement or water park,0.3404094
+QFeat,Which features or attractions did you visit during your most recent vacation?,SG,Other,0.030326
+QFeat,Which features or attractions did you visit during your most recent vacation?,SG,Count,2.9848
+QFeat,Which features or attractions did you visit during your most recent vacation?,UK,Beach,0.47191011
+QFeat,Which features or attractions did you visit during your most recent vacation?,UK,Lake or river,0.17897271
+QFeat,Which features or attractions did you visit during your most recent vacation?,UK,City,0.43659711
+QFeat,Which features or attractions did you visit during your most recent vacation?,UK,Cultural or historical sites,0.28089888
+QFeat,Which features or attractions did you visit during your most recent vacation?,UK,Countryside,0.28892456
+QFeat,Which features or attractions did you visit during your most recent vacation?,UK,Adventure or outdoor activities,0.17014446
+QFeat,Which features or attractions did you visit during your most recent vacation?,UK,Forest,0.1364366
+QFeat,Which features or attractions did you visit during your most recent vacation?,UK,Safari or wildlife,0.09470305
+QFeat,Which features or attractions did you visit during your most recent vacation?,UK,Amusement or water park,0.14767255
+QFeat,Which features or attractions did you visit during your most recent vacation?,UK,Other,0.03611557
+QFeat,Which features or attractions did you visit during your most recent vacation?,UK,Count,2.2424
+QFeat,Which features or attractions did you visit during your most recent vacation?,US,Beach,0.3845515
+QFeat,Which features or attractions did you visit during your most recent vacation?,US,Lake or river,0.21262458
+QFeat,Which features or attractions did you visit during your most recent vacation?,US,City,0.40946844
+QFeat,Which features or attractions did you visit during your most recent vacation?,US,Cultural or historical sites,0.25664452
+QFeat,Which features or attractions did you visit during your most recent vacation?,US,Countryside,0.22259136
+QFeat,Which features or attractions did you visit during your most recent vacation?,US,Adventure or outdoor activities,0.26245847
+QFeat,Which features or attractions did you visit during your most recent vacation?,US,Forest,0.1744186
+QFeat,Which features or attractions did you visit during your most recent vacation?,US,Safari or wildlife,0.12541528
+QFeat,Which features or attractions did you visit during your most recent vacation?,US,Amusement or water park,0.18604651
+QFeat,Which features or attractions did you visit during your most recent vacation?,US,Other,0.04651163000000001
+QFeat,Which features or attractions did you visit during your most recent vacation?,US,Count,2.2807
+QFeat,Which features or attractions did you visit during your most recent vacation?,CN,Beach,0.35866261
+QFeat,Which features or attractions did you visit during your most recent vacation?,CN,Lake or river,0.29888551
+QFeat,Which features or attractions did you visit during your most recent vacation?,CN,City,0.44072948
+QFeat,Which features or attractions did you visit during your most recent vacation?,CN,Cultural or historical sites,0.55420466
+QFeat,Which features or attractions did you visit during your most recent vacation?,CN,Countryside,0.21681864
+QFeat,Which features or attractions did you visit during your most recent vacation?,CN,Adventure or outdoor activities,0.25633232
+QFeat,Which features or attractions did you visit during your most recent vacation?,CN,Forest,0.2289767
+QFeat,Which features or attractions did you visit during your most recent vacation?,CN,Safari or wildlife,0.16312057
+QFeat,Which features or attractions did you visit during your most recent vacation?,CN,Amusement or water park,0.3627153
+QFeat,Which features or attractions did you visit during your most recent vacation?,CN,Other,0.00303951
+QFeat,Which features or attractions did you visit during your most recent vacation?,CN,Count,2.8835
+QFeat,Which features or attractions did you visit during your most recent vacation?,KR,Beach,0.42393736
+QFeat,Which features or attractions did you visit during your most recent vacation?,KR,Lake or river,0.2360179
+QFeat,Which features or attractions did you visit during your most recent vacation?,KR,City,0.42729306
+QFeat,Which features or attractions did you visit during your most recent vacation?,KR,Cultural or historical sites,0.40268456
+QFeat,Which features or attractions did you visit during your most recent vacation?,KR,Countryside,0.26733781
+QFeat,Which features or attractions did you visit during your most recent vacation?,KR,Adventure or outdoor activities,0.11409396
+QFeat,Which features or attractions did you visit during your most recent vacation?,KR,Forest,0.31096197
+QFeat,Which features or attractions did you visit during your most recent vacation?,KR,Safari or wildlife,0.04138702
+QFeat,Which features or attractions did you visit during your most recent vacation?,KR,Amusement or water park,0.17225951
+QFeat,Which features or attractions did you visit during your most recent vacation?,KR,Other,0.00782998
+QFeat,Which features or attractions did you visit during your most recent vacation?,KR,Count,2.4038
+QFeat,Which features or attractions did you visit during your most recent vacation?,UAE,Beach,0.61262242
+QFeat,Which features or attractions did you visit during your most recent vacation?,UAE,Lake or river,0.30032644
+QFeat,Which features or attractions did you visit during your most recent vacation?,UAE,City,0.53754081
+QFeat,Which features or attractions did you visit during your most recent vacation?,UAE,Cultural or historical sites,0.36343852
+QFeat,Which features or attractions did you visit during your most recent vacation?,UAE,Countryside,0.26441785
+QFeat,Which features or attractions did you visit during your most recent vacation?,UAE,Adventure or outdoor activities,0.37867247
+QFeat,Which features or attractions did you visit during your most recent vacation?,UAE,Forest,0.20457018
+QFeat,Which features or attractions did you visit during your most recent vacation?,UAE,Safari or wildlife,0.26224157
+QFeat,Which features or attractions did you visit during your most recent vacation?,UAE,Amusement or water park,0.41349293
+QFeat,Which features or attractions did you visit during your most recent vacation?,UAE,Other,0.00326442
+QFeat,Which features or attractions did you visit during your most recent vacation?,UAE,Count,3.3406
+QFeat,Which features or attractions did you visit during your most recent vacation?,BR,Beach,0.61807229
+QFeat,Which features or attractions did you visit during your most recent vacation?,BR,Lake or river,0.24939759
+QFeat,Which features or attractions did you visit during your most recent vacation?,BR,City,0.48915663
+QFeat,Which features or attractions did you visit during your most recent vacation?,BR,Cultural or historical sites,0.36144578
+QFeat,Which features or attractions did you visit during your most recent vacation?,BR,Countryside,0.23975904
+QFeat,Which features or attractions did you visit during your most recent vacation?,BR,Adventure or outdoor activities,0.29879518
+QFeat,Which features or attractions did you visit during your most recent vacation?,BR,Forest,0.14457831
+QFeat,Which features or attractions did you visit during your most recent vacation?,BR,Safari or wildlife,0.06024096
+QFeat,Which features or attractions did you visit during your most recent vacation?,BR,Amusement or water park,0.23614458
+QFeat,Which features or attractions did you visit during your most recent vacation?,BR,Other,0.01686747
+QFeat,Which features or attractions did you visit during your most recent vacation?,BR,Count,2.7145
+QFeat,Which features or attractions did you visit during your most recent vacation?,FR,Beach,0.48812352
+QFeat,Which features or attractions did you visit during your most recent vacation?,FR,Lake or river,0.2280285
+QFeat,Which features or attractions did you visit during your most recent vacation?,FR,City,0.55700713
+QFeat,Which features or attractions did you visit during your most recent vacation?,FR,Cultural or historical sites,0.37648456
+QFeat,Which features or attractions did you visit during your most recent vacation?,FR,Countryside,0.25059382
+QFeat,Which features or attractions did you visit during your most recent vacation?,FR,Adventure or outdoor activities,0.26484561
+QFeat,Which features or attractions did you visit during your most recent vacation?,FR,Forest,0.21615202
+QFeat,Which features or attractions did you visit during your most recent vacation?,FR,Safari or wildlife,0.04394299
+QFeat,Which features or attractions did you visit during your most recent vacation?,FR,Amusement or water park,0.15914489
+QFeat,Which features or attractions did you visit during your most recent vacation?,FR,Other,0.02019002
+QFeat,Which features or attractions did you visit during your most recent vacation?,FR,Count,2.6045
+QFeat,Which features or attractions did you visit during your most recent vacation?,DE,Beach,0.44785276
+QFeat,Which features or attractions did you visit during your most recent vacation?,DE,Lake or river,0.25153374
+QFeat,Which features or attractions did you visit during your most recent vacation?,DE,City,0.5803681
+QFeat,Which features or attractions did you visit during your most recent vacation?,DE,Cultural or historical sites,0.36932515
+QFeat,Which features or attractions did you visit during your most recent vacation?,DE,Countryside,0.45766871
+QFeat,Which features or attractions did you visit during your most recent vacation?,DE,Adventure or outdoor activities,0.16196319
+QFeat,Which features or attractions did you visit during your most recent vacation?,DE,Forest,0.26503067
+QFeat,Which features or attractions did you visit during your most recent vacation?,DE,Safari or wildlife,0.08588957000000001
+QFeat,Which features or attractions did you visit during your most recent vacation?,DE,Amusement or water park,0.15214724
+QFeat,Which features or attractions did you visit during your most recent vacation?,DE,Other,0.02699387
+QFeat,Which features or attractions did you visit during your most recent vacation?,DE,Count,2.7988
+QFeat,Which features or attractions did you visit during your most recent vacation?,AU,Beach,0.4375
+QFeat,Which features or attractions did you visit during your most recent vacation?,AU,Lake or river,0.22375
+QFeat,Which features or attractions did you visit during your most recent vacation?,AU,City,0.42875
+QFeat,Which features or attractions did you visit during your most recent vacation?,AU,Cultural or historical sites,0.26125
+QFeat,Which features or attractions did you visit during your most recent vacation?,AU,Countryside,0.3075
+QFeat,Which features or attractions did you visit during your most recent vacation?,AU,Adventure or outdoor activities,0.2175
+QFeat,Which features or attractions did you visit during your most recent vacation?,AU,Forest,0.1625
+QFeat,Which features or attractions did you visit during your most recent vacation?,AU,Safari or wildlife,0.09875
+QFeat,Which features or attractions did you visit during your most recent vacation?,AU,Amusement or water park,0.12375
+QFeat,Which features or attractions did you visit during your most recent vacation?,AU,Other,0.05
+QFeat,Which features or attractions did you visit during your most recent vacation?,AU,Count,2.3112
+QWhowith,Who did you travel with on this most recent vacation?,Total,I travelled alone,0.14011769
+QWhowith,Who did you travel with on this most recent vacation?,Total,With my partner,0.4235998399999999
+QWhowith,Who did you travel with on this most recent vacation?,Total,With immediate family,0.32102273
+QWhowith,Who did you travel with on this most recent vacation?,Total,With extended family,0.13890016
+QWhowith,Who did you travel with on this most recent vacation?,Total,With friends/couples,0.18506494
+QWhowith,Who did you travel with on this most recent vacation?,Total,In a group with a shared interest,0.05874594
+QWhowith,Who did you travel with on this most recent vacation?,Total,Other,0.00618912
+QWhowith,Who did you travel with on this most recent vacation?,Total,Count,1.2736
+QWhowith,Who did you travel with on this most recent vacation?,SG,I travelled alone,0.06520091
+QWhowith,Who did you travel with on this most recent vacation?,SG,With my partner,0.4495830200000001
+QWhowith,Who did you travel with on this most recent vacation?,SG,With immediate family,0.50720243
+QWhowith,Who did you travel with on this most recent vacation?,SG,With extended family,0.26838514
+QWhowith,Who did you travel with on this most recent vacation?,SG,With friends/couples,0.20697498
+QWhowith,Who did you travel with on this most recent vacation?,SG,In a group with a shared interest,0.07808946
+QWhowith,Who did you travel with on this most recent vacation?,SG,Other,0.00530705
+QWhowith,Who did you travel with on this most recent vacation?,SG,Count,1.5807
+QWhowith,Who did you travel with on this most recent vacation?,UK,I travelled alone,0.14446228
+QWhowith,Who did you travel with on this most recent vacation?,UK,With my partner,0.45746388
+QWhowith,Who did you travel with on this most recent vacation?,UK,With immediate family,0.30176565
+QWhowith,Who did you travel with on this most recent vacation?,UK,With extended family,0.07544141
+QWhowith,Who did you travel with on this most recent vacation?,UK,With friends/couples,0.14767255
+QWhowith,Who did you travel with on this most recent vacation?,UK,In a group with a shared interest,0.04093098000000001
+QWhowith,Who did you travel with on this most recent vacation?,UK,Other,0.00481541
+QWhowith,Who did you travel with on this most recent vacation?,UK,Count,1.1726
+QWhowith,Who did you travel with on this most recent vacation?,US,I travelled alone,0.160299
+QWhowith,Who did you travel with on this most recent vacation?,US,With my partner,0.3679402000000001
+QWhowith,Who did you travel with on this most recent vacation?,US,With immediate family,0.28405316
+QWhowith,Who did you travel with on this most recent vacation?,US,With extended family,0.12043189
+QWhowith,Who did you travel with on this most recent vacation?,US,With friends/couples,0.2076412
+QWhowith,Who did you travel with on this most recent vacation?,US,In a group with a shared interest,0.08554816999999999
+QWhowith,Who did you travel with on this most recent vacation?,US,Other,0.00581395
+QWhowith,Who did you travel with on this most recent vacation?,US,Count,1.2317
+QWhowith,Who did you travel with on this most recent vacation?,CN,I travelled alone,0.26038501
+QWhowith,Who did you travel with on this most recent vacation?,CN,With my partner,0.39817629
+QWhowith,Who did you travel with on this most recent vacation?,CN,With immediate family,0.13171226
+QWhowith,Who did you travel with on this most recent vacation?,CN,With extended family,0.17122594
+QWhowith,Who did you travel with on this most recent vacation?,CN,With friends/couples,0.18844985
+QWhowith,Who did you travel with on this most recent vacation?,CN,In a group with a shared interest,0.09827761
+QWhowith,Who did you travel with on this most recent vacation?,CN,Other,0.0
+QWhowith,Who did you travel with on this most recent vacation?,CN,Count,1.2482
+QWhowith,Who did you travel with on this most recent vacation?,KR,I travelled alone,0.09284115999999999
+QWhowith,Who did you travel with on this most recent vacation?,KR,With my partner,0.33221477
+QWhowith,Who did you travel with on this most recent vacation?,KR,With immediate family,0.41722595
+QWhowith,Who did you travel with on this most recent vacation?,KR,With extended family,0.06040268
+QWhowith,Who did you travel with on this most recent vacation?,KR,With friends/couples,0.22259508
+QWhowith,Who did you travel with on this most recent vacation?,KR,In a group with a shared interest,0.02572707
+QWhowith,Who did you travel with on this most recent vacation?,KR,Other,0.0033557
+QWhowith,Who did you travel with on this most recent vacation?,KR,Count,1.1544
+QWhowith,Who did you travel with on this most recent vacation?,UAE,I travelled alone,0.11969532
+QWhowith,Who did you travel with on this most recent vacation?,UAE,With my partner,0.44396083
+QWhowith,Who did you travel with on this most recent vacation?,UAE,With immediate family,0.3601741
+QWhowith,Who did you travel with on this most recent vacation?,UAE,With extended family,0.10228509
+QWhowith,Who did you travel with on this most recent vacation?,UAE,With friends/couples,0.28618063
+QWhowith,Who did you travel with on this most recent vacation?,UAE,In a group with a shared interest,0.0663765
+QWhowith,Who did you travel with on this most recent vacation?,UAE,Other,0.00217628
+QWhowith,Who did you travel with on this most recent vacation?,UAE,Count,1.3808
+QWhowith,Who did you travel with on this most recent vacation?,BR,I travelled alone,0.13253012
+QWhowith,Who did you travel with on this most recent vacation?,BR,With my partner,0.4373494
+QWhowith,Who did you travel with on this most recent vacation?,BR,With immediate family,0.28072289
+QWhowith,Who did you travel with on this most recent vacation?,BR,With extended family,0.2
+QWhowith,Who did you travel with on this most recent vacation?,BR,With friends/couples,0.12168675
+QWhowith,Who did you travel with on this most recent vacation?,BR,In a group with a shared interest,0.05421687
+QWhowith,Who did you travel with on this most recent vacation?,BR,Other,0.01325301
+QWhowith,Who did you travel with on this most recent vacation?,BR,Count,1.2398
+QWhowith,Who did you travel with on this most recent vacation?,FR,I travelled alone,0.14489311
+QWhowith,Who did you travel with on this most recent vacation?,FR,With my partner,0.4631829
+QWhowith,Who did you travel with on this most recent vacation?,FR,With immediate family,0.27790974
+QWhowith,Who did you travel with on this most recent vacation?,FR,With extended family,0.15795724
+QWhowith,Who did you travel with on this most recent vacation?,FR,With friends/couples,0.14964371
+QWhowith,Who did you travel with on this most recent vacation?,FR,In a group with a shared interest,0.02256532
+QWhowith,Who did you travel with on this most recent vacation?,FR,Other,0.00950119
+QWhowith,Who did you travel with on this most recent vacation?,FR,Count,1.2257
+QWhowith,Who did you travel with on this most recent vacation?,DE,I travelled alone,0.14846626
+QWhowith,Who did you travel with on this most recent vacation?,DE,With my partner,0.50674847
+QWhowith,Who did you travel with on this most recent vacation?,DE,With immediate family,0.26380368
+QWhowith,Who did you travel with on this most recent vacation?,DE,With extended family,0.09693252
+QWhowith,Who did you travel with on this most recent vacation?,DE,With friends/couples,0.12883436
+QWhowith,Who did you travel with on this most recent vacation?,DE,In a group with a shared interest,0.04171779
+QWhowith,Who did you travel with on this most recent vacation?,DE,Other,0.01104294
+QWhowith,Who did you travel with on this most recent vacation?,DE,Count,1.1975
+QWhowith,Who did you travel with on this most recent vacation?,AU,I travelled alone,0.14875
+QWhowith,Who did you travel with on this most recent vacation?,AU,With my partner,0.38125
+QWhowith,Who did you travel with on this most recent vacation?,AU,With immediate family,0.32625
+QWhowith,Who did you travel with on this most recent vacation?,AU,With extended family,0.10125
+QWhowith,Who did you travel with on this most recent vacation?,AU,With friends/couples,0.17125
+QWhowith,Who did you travel with on this most recent vacation?,AU,In a group with a shared interest,0.05375
+QWhowith,Who did you travel with on this most recent vacation?,AU,Other,0.01
+QWhowith,Who did you travel with on this most recent vacation?,AU,Count,1.1925
+QReasons,What were the main reasons you went on your most recent vacation?,Total,Visit with family or friends,0.25852273
+QReasons,What were the main reasons you went on your most recent vacation?,Total,Relax or take a break,0.65584416
+QReasons,What were the main reasons you went on your most recent vacation?,Total,Experience a new culture,0.23224432
+QReasons,What were the main reasons you went on your most recent vacation?,Total,Attend concert or festival,0.09303977
+QReasons,What were the main reasons you went on your most recent vacation?,Total,Attend wedding or another special event,0.07711039
+QReasons,What were the main reasons you went on your most recent vacation?,Total,As a romantic getaway,0.19876218
+QReasons,What were the main reasons you went on your most recent vacation?,Total,Celebrate a milestone or anniversary,0.11972403
+QReasons,What were the main reasons you went on your most recent vacation?,Total,Take part in activity,0.14123377
+QReasons,What were the main reasons you went on your most recent vacation?,Total,Other,0.02313312
+QReasons,What were the main reasons you went on your most recent vacation?,Total,Count,1.7996
+QReasons,What were the main reasons you went on your most recent vacation?,SG,Visit with family or friends,0.20849128
+QReasons,What were the main reasons you went on your most recent vacation?,SG,Relax or take a break,0.8119787700000001
+QReasons,What were the main reasons you went on your most recent vacation?,SG,Experience a new culture,0.25549659
+QReasons,What were the main reasons you went on your most recent vacation?,SG,Attend concert or festival,0.05837756
+QReasons,What were the main reasons you went on your most recent vacation?,SG,Attend wedding or another special event,0.06216831
+QReasons,What were the main reasons you went on your most recent vacation?,SG,As a romantic getaway,0.26231994
+QReasons,What were the main reasons you went on your most recent vacation?,SG,Celebrate a milestone or anniversary,0.09855950999999999
+QReasons,What were the main reasons you went on your most recent vacation?,SG,Take part in activity,0.13040182
+QReasons,What were the main reasons you went on your most recent vacation?,SG,Other,0.0212282
+QReasons,What were the main reasons you went on your most recent vacation?,SG,Count,1.909
+QReasons,What were the main reasons you went on your most recent vacation?,UK,Visit with family or friends,0.26805778
+QReasons,What were the main reasons you went on your most recent vacation?,UK,Relax or take a break,0.62279294
+QReasons,What were the main reasons you went on your most recent vacation?,UK,Experience a new culture,0.16773676
+QReasons,What were the main reasons you went on your most recent vacation?,UK,Attend concert or festival,0.08667737
+QReasons,What were the main reasons you went on your most recent vacation?,UK,Attend wedding or another special event,0.05698234
+QReasons,What were the main reasons you went on your most recent vacation?,UK,As a romantic getaway,0.11717496
+QReasons,What were the main reasons you went on your most recent vacation?,UK,Celebrate a milestone or anniversary,0.09229535
+QReasons,What were the main reasons you went on your most recent vacation?,UK,Take part in activity,0.09309791
+QReasons,What were the main reasons you went on your most recent vacation?,UK,Other,0.03691814
+QReasons,What were the main reasons you went on your most recent vacation?,UK,Count,1.5417
+QReasons,What were the main reasons you went on your most recent vacation?,US,Visit with family or friends,0.33803987
+QReasons,What were the main reasons you went on your most recent vacation?,US,Relax or take a break,0.52325581
+QReasons,What were the main reasons you went on your most recent vacation?,US,Experience a new culture,0.19601329
+QReasons,What were the main reasons you went on your most recent vacation?,US,Attend concert or festival,0.10880399
+QReasons,What were the main reasons you went on your most recent vacation?,US,Attend wedding or another special event,0.11046512
+QReasons,What were the main reasons you went on your most recent vacation?,US,As a romantic getaway,0.19019934
+QReasons,What were the main reasons you went on your most recent vacation?,US,Celebrate a milestone or anniversary,0.13953488
+QReasons,What were the main reasons you went on your most recent vacation?,US,Take part in activity,0.16611296
+QReasons,What were the main reasons you went on your most recent vacation?,US,Other,0.03405316
+QReasons,What were the main reasons you went on your most recent vacation?,US,Count,1.8065
+QReasons,What were the main reasons you went on your most recent vacation?,CN,Visit with family or friends,0.147923
+QReasons,What were the main reasons you went on your most recent vacation?,CN,Relax or take a break,0.62816616
+QReasons,What were the main reasons you went on your most recent vacation?,CN,Experience a new culture,0.42147923
+QReasons,What were the main reasons you went on your most recent vacation?,CN,Attend concert or festival,0.14285714
+QReasons,What were the main reasons you went on your most recent vacation?,CN,Attend wedding or another special event,0.11854103
+QReasons,What were the main reasons you went on your most recent vacation?,CN,As a romantic getaway,0.30192503
+QReasons,What were the main reasons you went on your most recent vacation?,CN,Celebrate a milestone or anniversary,0.15400203
+QReasons,What were the main reasons you went on your most recent vacation?,CN,Take part in activity,0.21377913
+QReasons,What were the main reasons you went on your most recent vacation?,CN,Other,0.0
+QReasons,What were the main reasons you went on your most recent vacation?,CN,Count,2.1287
+QReasons,What were the main reasons you went on your most recent vacation?,KR,Visit with family or friends,0.14765101
+QReasons,What were the main reasons you went on your most recent vacation?,KR,Relax or take a break,0.71700224
+QReasons,What were the main reasons you went on your most recent vacation?,KR,Experience a new culture,0.26286353
+QReasons,What were the main reasons you went on your most recent vacation?,KR,Attend concert or festival,0.05145414
+QReasons,What were the main reasons you went on your most recent vacation?,KR,Attend wedding or another special event,0.03691275
+QReasons,What were the main reasons you went on your most recent vacation?,KR,As a romantic getaway,0.24272931
+QReasons,What were the main reasons you went on your most recent vacation?,KR,Celebrate a milestone or anniversary,0.12639821
+QReasons,What were the main reasons you went on your most recent vacation?,KR,Take part in activity,0.06935123
+QReasons,What were the main reasons you went on your most recent vacation?,KR,Other,0.01006711
+QReasons,What were the main reasons you went on your most recent vacation?,KR,Count,1.6644
+QReasons,What were the main reasons you went on your most recent vacation?,UAE,Visit with family or friends,0.3710555
+QReasons,What were the main reasons you went on your most recent vacation?,UAE,Relax or take a break,0.65179543
+QReasons,What were the main reasons you went on your most recent vacation?,UAE,Experience a new culture,0.33405876
+QReasons,What were the main reasons you went on your most recent vacation?,UAE,Attend concert or festival,0.13275299
+QReasons,What were the main reasons you went on your most recent vacation?,UAE,Attend wedding or another special event,0.12078346
+QReasons,What were the main reasons you went on your most recent vacation?,UAE,As a romantic getaway,0.29597388
+QReasons,What were the main reasons you went on your most recent vacation?,UAE,Celebrate a milestone or anniversary,0.17083787
+QReasons,What were the main reasons you went on your most recent vacation?,UAE,Take part in activity,0.16648531
+QReasons,What were the main reasons you went on your most recent vacation?,UAE,Other,0.00652884
+QReasons,What were the main reasons you went on your most recent vacation?,UAE,Count,2.2503
+QReasons,What were the main reasons you went on your most recent vacation?,BR,Visit with family or friends,0.31566265
+QReasons,What were the main reasons you went on your most recent vacation?,BR,Relax or take a break,0.6710843400000001
+QReasons,What were the main reasons you went on your most recent vacation?,BR,Experience a new culture,0.18915663
+QReasons,What were the main reasons you went on your most recent vacation?,BR,Attend concert or festival,0.10963855
+QReasons,What were the main reasons you went on your most recent vacation?,BR,Attend wedding or another special event,0.07590361
+QReasons,What were the main reasons you went on your most recent vacation?,BR,As a romantic getaway,0.19759036
+QReasons,What were the main reasons you went on your most recent vacation?,BR,Celebrate a milestone or anniversary,0.17349398
+QReasons,What were the main reasons you went on your most recent vacation?,BR,Take part in activity,0.14337349
+QReasons,What were the main reasons you went on your most recent vacation?,BR,Other,0.00722892
+QReasons,What were the main reasons you went on your most recent vacation?,BR,Count,1.8831
+QReasons,What were the main reasons you went on your most recent vacation?,FR,Visit with family or friends,0.28266033
+QReasons,What were the main reasons you went on your most recent vacation?,FR,Relax or take a break,0.66033254
+QReasons,What were the main reasons you went on your most recent vacation?,FR,Experience a new culture,0.17933492
+QReasons,What were the main reasons you went on your most recent vacation?,FR,Attend concert or festival,0.07244656
+QReasons,What were the main reasons you went on your most recent vacation?,FR,Attend wedding or another special event,0.05106888
+QReasons,What were the main reasons you went on your most recent vacation?,FR,As a romantic getaway,0.1152019
+QReasons,What were the main reasons you went on your most recent vacation?,FR,Celebrate a milestone or anniversary,0.09263658
+QReasons,What were the main reasons you went on your most recent vacation?,FR,Take part in activity,0.17458432
+QReasons,What were the main reasons you went on your most recent vacation?,FR,Other,0.03087886
+QReasons,What were the main reasons you went on your most recent vacation?,FR,Count,1.6591
+QReasons,What were the main reasons you went on your most recent vacation?,DE,Visit with family or friends,0.18895706
+QReasons,What were the main reasons you went on your most recent vacation?,DE,Relax or take a break,0.6539877300000001
+QReasons,What were the main reasons you went on your most recent vacation?,DE,Experience a new culture,0.15460123
+QReasons,What were the main reasons you went on your most recent vacation?,DE,Attend concert or festival,0.08220859000000001
+QReasons,What were the main reasons you went on your most recent vacation?,DE,Attend wedding or another special event,0.06134969
+QReasons,What were the main reasons you went on your most recent vacation?,DE,As a romantic getaway,0.12269939
+QReasons,What were the main reasons you went on your most recent vacation?,DE,Celebrate a milestone or anniversary,0.06134969
+QReasons,What were the main reasons you went on your most recent vacation?,DE,Take part in activity,0.15460123
+QReasons,What were the main reasons you went on your most recent vacation?,DE,Other,0.04417178
+QReasons,What were the main reasons you went on your most recent vacation?,DE,Count,1.5239
+QReasons,What were the main reasons you went on your most recent vacation?,AU,Visit with family or friends,0.32375
+QReasons,What were the main reasons you went on your most recent vacation?,AU,Relax or take a break,0.60125
+QReasons,What were the main reasons you went on your most recent vacation?,AU,Experience a new culture,0.14375
+QReasons,What were the main reasons you went on your most recent vacation?,AU,Attend concert or festival,0.09125
+QReasons,What were the main reasons you went on your most recent vacation?,AU,Attend wedding or another special event,0.07125
+QReasons,What were the main reasons you went on your most recent vacation?,AU,As a romantic getaway,0.1125
+QReasons,What were the main reasons you went on your most recent vacation?,AU,Celebrate a milestone or anniversary,0.09125
+QReasons,What were the main reasons you went on your most recent vacation?,AU,Take part in activity,0.1075
+QReasons,What were the main reasons you went on your most recent vacation?,AU,Other,0.0375
+QReasons,What were the main reasons you went on your most recent vacation?,AU,Count,1.58
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,Total,Relaxing,0.57024697
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,Total,Stressful,0.0583644
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,Total,Adventurous,0.21411929
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,Total,Tame,0.09203169000000001
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,Total,Cultural,0.23392358
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,Total,Romantic,0.2000233
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,Total,Luxurious,0.13769804
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,Total,Budget-friendly,0.25209692
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,Total,Fun,0.49965051
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,Total,Exotic,0.0971575
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,Total,Familiar,0.27877446
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,Total,Underwhelming,0.04403541
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,Total,Rejuvenating,0.27516309
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,Total,Chaotic,0.04473439
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,Total,Disappointing,0.03448276
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,Total,Lonely,0.04077353
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,Total,None of the above,0.00792171
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,Total,Count,3.0812
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,SG,Relaxing,0.69919633
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,SG,Stressful,0.07462687
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,SG,Adventurous,0.1836969
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,SG,Tame,0.03559127
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,SG,Cultural,0.33524684
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,SG,Romantic,0.26636051
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,SG,Luxurious,0.10447761
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,SG,Budget-friendly,0.3880597
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,SG,Fun,0.55453502
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,SG,Exotic,0.06429392
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,SG,Familiar,0.21010333
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,SG,Underwhelming,0.05625718
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,SG,Rejuvenating,0.38920781
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,SG,Chaotic,0.05625718
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,SG,Disappointing,0.03559127
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,SG,Lonely,0.03559127
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,SG,None of the above,0.00344432
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,SG,Count,3.4925
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,UK,Relaxing,0.57280385
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,UK,Stressful,0.0589651
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,UK,Adventurous,0.2166065
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,UK,Tame,0.04693141
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,UK,Cultural,0.19133574
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,UK,Romantic,0.14320096
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,UK,Luxurious,0.16967509
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,UK,Budget-friendly,0.25872443
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,UK,Fun,0.52587244
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,UK,Exotic,0.07701564
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,UK,Familiar,0.23104693
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,UK,Underwhelming,0.03610108
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,UK,Rejuvenating,0.244284
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,UK,Chaotic,0.04933815
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,UK,Disappointing,0.03489771
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,UK,Lonely,0.02888087
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,UK,None of the above,0.01083032
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,UK,Count,2.8965
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,US,Relaxing,0.53584906
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,US,Stressful,0.08553459000000001
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,US,Adventurous,0.2490566
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,US,Tame,0.07798742
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,US,Cultural,0.17610063
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,US,Romantic,0.22264151
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,US,Luxurious,0.14591195
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,US,Budget-friendly,0.23144654
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,US,Fun,0.5081761
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,US,Exotic,0.09433962
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,US,Familiar,0.29811321
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,US,Underwhelming,0.05031447
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,US,Rejuvenating,0.21509434
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,US,Chaotic,0.0754717
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,US,Disappointing,0.06540881
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,US,Lonely,0.05786164000000001
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,US,None of the above,0.0163522
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,US,Count,3.1057
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,CN,Relaxing,0.50455927
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,CN,Stressful,0.0212766
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,CN,Adventurous,0.14387031
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,CN,Tame,0.02026342
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,CN,Cultural,0.26342452
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,CN,Romantic,0.25227964
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,CN,Luxurious,0.11550152
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,CN,Budget-friendly,0.19554205
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,CN,Fun,0.40324215
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,CN,Exotic,0.16514691
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,CN,Familiar,0.14994934
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,CN,Underwhelming,0.03343465
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,CN,Rejuvenating,0.30091185
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,CN,Chaotic,0.01317123
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,CN,Disappointing,0.01519757
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,CN,Lonely,0.03242148
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,CN,None of the above,0.00101317
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,CN,Count,2.6312
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,KR,Relaxing,0.59619687
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,KR,Stressful,0.03914989
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,KR,Adventurous,0.08836689
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,KR,Tame,0.0458613
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,KR,Cultural,0.2393736
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,KR,Romantic,0.10290828
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,KR,Luxurious,0.1163311
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,KR,Budget-friendly,0.13870246
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,KR,Fun,0.51230425
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,KR,Exotic,0.15436242
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,KR,Familiar,0.31767338
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,KR,Underwhelming,0.04474273
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,KR,Rejuvenating,0.32102908
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,KR,Chaotic,0.02348993
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,KR,Disappointing,0.03914989
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,KR,Lonely,0.01789709
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,KR,None of the above,0.01118568
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,KR,Count,2.8087
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,UAE,Relaxing,0.45484222
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,UAE,Stressful,0.05875952
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,UAE,Adventurous,0.34276387
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,UAE,Tame,0.11425462
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,UAE,Cultural,0.22198041
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,UAE,Romantic,0.3297061999999999
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,UAE,Luxurious,0.29706202
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,UAE,Budget-friendly,0.29488575
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,UAE,Fun,0.62132753
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,UAE,Exotic,0.07834603000000001
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,UAE,Familiar,0.2437432
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,UAE,Underwhelming,0.04134929
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,UAE,Rejuvenating,0.2992383
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,UAE,Chaotic,0.03699674
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,UAE,Disappointing,0.03808487
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,UAE,Lonely,0.06093580000000001
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,UAE,None of the above,0.00326442
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,UAE,Count,3.5375
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,BR,Relaxing,0.6228915700000001
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,BR,Stressful,0.04939759
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,BR,Adventurous,0.25662651
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,BR,Tame,0.09638553999999999
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,BR,Cultural,0.21084337
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,BR,Romantic,0.22650602
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,BR,Luxurious,0.12650602
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,BR,Budget-friendly,0.21686747
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,BR,Fun,0.6072289200000001
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,BR,Exotic,0.07710842999999999
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,BR,Familiar,0.48554217
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,BR,Underwhelming,0.0373494
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,BR,Rejuvenating,0.20120482
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,BR,Chaotic,0.04457831
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,BR,Disappointing,0.02289157
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,BR,Lonely,0.04578313
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,BR,None of the above,0.0060241
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,BR,Count,3.3337
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,FR,Relaxing,0.49168646
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,FR,Stressful,0.05344418
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,FR,Adventurous,0.20902613
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,FR,Tame,0.38123515
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,FR,Cultural,0.24703088
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,FR,Romantic,0.13776722
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,FR,Luxurious,0.06650831
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,FR,Budget-friendly,0.16864608
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,FR,Fun,0.32304038
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,FR,Exotic,0.09501188
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,FR,Familiar,0.28503563
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,FR,Underwhelming,0.05938242
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,FR,Rejuvenating,0.35391924
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,FR,Chaotic,0.02612827
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,FR,Disappointing,0.02850356
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,FR,Lonely,0.05463183
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,FR,None of the above,0.008313540000000001
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,FR,Count,2.9893
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,DE,Relaxing,0.6269938700000001
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,DE,Stressful,0.06871166
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,DE,Adventurous,0.2196319
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,DE,Tame,0.03680982
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,DE,Cultural,0.27484663
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,DE,Romantic,0.14846626
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,DE,Luxurious,0.10920245
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,DE,Budget-friendly,0.31779141
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,DE,Fun,0.43680982
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,DE,Exotic,0.07361963
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,DE,Familiar,0.3398773
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,DE,Underwhelming,0.0208589
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,DE,Rejuvenating,0.12147239
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,DE,Chaotic,0.05889571
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,DE,Disappointing,0.03190184
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,DE,Lonely,0.03435583
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,DE,None of the above,0.00981595
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,DE,Count,2.9301
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,AU,Relaxing,0.61625
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,AU,Stressful,0.08375
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,AU,Adventurous,0.245
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,AU,Tame,0.07625
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,AU,Cultural,0.165
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,AU,Romantic,0.15
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,AU,Luxurious,0.11625
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,AU,Budget-friendly,0.3225
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,AU,Fun,0.5075
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,AU,Exotic,0.0775
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,AU,Familiar,0.25625
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,AU,Underwhelming,0.0625
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,AU,Rejuvenating,0.2825
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,AU,Chaotic,0.07375
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,AU,Disappointing,0.0375
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,AU,Lonely,0.04125
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,AU,None of the above,0.01125
+QDescribe_E,Vacations can be brilliant but not every vacation lives up to our expectations! What words would you use to describe your most recent vacation?,AU,Count,3.125

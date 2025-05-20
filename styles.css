@@ -1,0 +1,18 @@
+/* Inter Font einbinden */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+
+html, body, [class*="css"] {
+    font-family: 'Inter', sans-serif;
+}
+
+/* Optional: Abstand und Farbe */
+h1 {
+    font-weight: 700;
+    color: #F5C518; /* Kantar-Gelb */
+    margin-bottom: 1rem;
+}
+
+hr {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}

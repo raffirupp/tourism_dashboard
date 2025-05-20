@@ -1,0 +1,89 @@
+Country,Statement_Code,Statement_Text,Strongly disagree,Disagree,Neither agree nor disagree,Agree,Strongly agree,Agreement
+Total,A,"I love going on vacations, it is one of the things I look forward to the most (A)",2.4,3.8,14.9,43.9,35.0,78.9
+Total,B,I find that vacations can be stressful and not always enjoyable (B),12.9,24.9,23.3,29.6,9.3,38.900000000000006
+Total,C,I really enjoy vacations that involved activities and new experiences (C),2.4,5.6,17.9,45.6,28.5,74.1
+Total,D,"For me, vacations are all about relaxing and chilling out (D)",1.9,4.9,13.1,46.3,33.8,80.1
+Total,E,I like to take risks and go to rarely visited locations on vacation (E),10.0,21.8,25.8,29.9,12.6,42.5
+Total,F,I prefer to return to familiar or trusted locations on vacation (F),2.4,9.9,27.9,41.9,17.9,59.8
+Total,G,I'm conscious of the environmental costs of travelling on vacation (G),3.8,9.7,23.8,45.0,17.6,62.6
+Total,H,I'd love to be able to travel in style when going on vacation (H),2.8,7.3,22.5,42.8,24.5,67.3
+SG,A,"I love going on vacations, it is one of the things I look forward to the most (A)",1.5,2.4,12.0,42.4,41.7,84.1
+SG,B,I find that vacations can be stressful and not always enjoyable (B),6.7,34.5,24.0,27.8,7.1,34.9
+SG,C,I really enjoy vacations that involved activities and new experiences (C),0.9,2.6,14.0,48.8,33.6,82.4
+SG,D,"For me, vacations are all about relaxing and chilling out (D)",0.7,1.5,7.8,49.0,41.0,90.0
+SG,E,I like to take risks and go to rarely visited locations on vacation (E),4.8,19.5,28.0,38.4,9.3,47.7
+SG,F,I prefer to return to familiar or trusted locations on vacation (F),1.5,7.9,29.0,37.6,24.0,61.6
+SG,G,I'm conscious of the environmental costs of travelling on vacation (G),2.5,8.4,25.7,52.9,10.5,63.4
+SG,H,I'd love to be able to travel in style when going on vacation (H),1.5,7.6,22.6,40.8,27.5,68.3
+UK,A,"I love going on vacations, it is one of the things I look forward to the most (A)",4.3,5.4,18.3,42.5,29.5,72.0
+UK,B,I find that vacations can be stressful and not always enjoyable (B),13.8,29.1,25.3,24.7,7.1,31.799999999999997
+UK,C,I really enjoy vacations that involved activities and new experiences (C),4.1,9.3,24.5,41.9,20.3,62.2
+UK,D,"For me, vacations are all about relaxing and chilling out (D)",3.7,6.7,19.3,46.2,24.1,70.30000000000001
+UK,E,I like to take risks and go to rarely visited locations on vacation (E),12.1,25.9,29.3,23.0,9.6,32.6
+UK,F,I prefer to return to familiar or trusted locations on vacation (F),3.7,13.1,32.2,39.0,12.0,51.0
+UK,G,I'm conscious of the environmental costs of travelling on vacation (G),6.7,12.7,27.5,38.5,14.5,53.0
+UK,H,I'd love to be able to travel in style when going on vacation (H),3.7,7.1,25.1,43.3,20.7,64.0
+US,A,"I love going on vacations, it is one of the things I look forward to the most (A)",2.9,4.7,15.7,45.7,30.9,76.6
+US,B,I find that vacations can be stressful and not always enjoyable (B),10.3,22.3,22.7,29.2,15.5,44.7
+US,C,I really enjoy vacations that involved activities and new experiences (C),3.1,4.4,14.8,49.0,28.7,77.7
+US,D,"For me, vacations are all about relaxing and chilling out (D)",2.7,5.5,12.0,49.0,30.8,79.8
+US,E,I like to take risks and go to rarely visited locations on vacation (E),10.9,20.3,23.5,29.2,16.2,45.4
+US,F,I prefer to return to familiar or trusted locations on vacation (F),2.5,7.4,24.2,46.8,19.2,66.0
+US,G,I'm conscious of the environmental costs of travelling on vacation (G),5.5,11.5,22.1,42.1,18.7,60.8
+US,H,I'd love to be able to travel in style when going on vacation (H),3.3,6.4,19.7,44.3,26.4,70.69999999999999
+CN,A,"I love going on vacations, it is one of the things I look forward to the most (A)",0.0,1.0,8.3,50.6,40.1,90.7
+CN,B,I find that vacations can be stressful and not always enjoyable (B),20.3,24.6,14.6,28.2,12.4,40.6
+CN,C,I really enjoy vacations that involved activities and new experiences (C),0.3,1.5,7.6,53.5,37.1,90.6
+CN,D,"For me, vacations are all about relaxing and chilling out (D)",0.4,1.1,7.3,50.4,40.8,91.19999999999999
+CN,E,I like to take risks and go to rarely visited locations on vacation (E),3.8,12.6,21.7,40.5,21.5,62.0
+CN,F,I prefer to return to familiar or trusted locations on vacation (F),0.6,4.6,19.1,48.4,27.3,75.7
+CN,G,I'm conscious of the environmental costs of travelling on vacation (G),0.7,5.0,18.8,49.5,26.0,75.5
+CN,H,I'd love to be able to travel in style when going on vacation (H),0.0,1.9,10.0,55.4,32.7,88.1
+KR,A,"I love going on vacations, it is one of the things I look forward to the most (A)",1.2,4.7,17.6,53.1,23.4,76.5
+KR,B,I find that vacations can be stressful and not always enjoyable (B),1.9,9.8,28.2,53.3,6.8,60.099999999999994
+KR,C,I really enjoy vacations that involved activities and new experiences (C),3.1,15.4,34.7,40.1,6.8,46.9
+KR,D,"For me, vacations are all about relaxing and chilling out (D)",0.3,3.6,9.3,57.0,29.8,86.8
+KR,E,I like to take risks and go to rarely visited locations on vacation (E),12.4,35.8,26.8,20.7,4.4,25.1
+KR,F,I prefer to return to familiar or trusted locations on vacation (F),0.8,8.0,26.2,54.1,10.9,65.0
+KR,G,I'm conscious of the environmental costs of travelling on vacation (G),4.4,20.3,37.5,32.2,5.7,37.900000000000006
+KR,H,I'd love to be able to travel in style when going on vacation (H),1.3,13.2,34.0,43.7,7.9,51.6
+UAE,A,"I love going on vacations, it is one of the things I look forward to the most (A)",2.8,1.0,9.5,40.2,46.6,86.80000000000001
+UAE,B,I find that vacations can be stressful and not always enjoyable (B),25.7,22.8,18.2,21.7,11.5,33.2
+UAE,C,I really enjoy vacations that involved activities and new experiences (C),2.9,1.8,8.5,39.8,47.1,86.9
+UAE,D,"For me, vacations are all about relaxing and chilling out (D)",2.8,4.1,10.3,40.9,42.0,82.9
+UAE,E,I like to take risks and go to rarely visited locations on vacation (E),4.8,9.9,18.5,40.5,26.3,66.8
+UAE,F,I prefer to return to familiar or trusted locations on vacation (F),2.8,8.9,21.7,42.5,24.1,66.6
+UAE,G,I'm conscious of the environmental costs of travelling on vacation (G),3.0,5.8,17.4,47.4,26.4,73.8
+UAE,H,I'd love to be able to travel in style when going on vacation (H),3.7,3.3,11.0,44.5,37.6,82.1
+BR,A,"I love going on vacations, it is one of the things I look forward to the most (A)",1.7,2.4,10.6,38.5,46.8,85.3
+BR,B,I find that vacations can be stressful and not always enjoyable (B),23.8,30.3,18.2,17.9,9.8,27.7
+BR,C,I really enjoy vacations that involved activities and new experiences (C),1.7,2.0,9.9,40.8,45.6,86.4
+BR,D,"For me, vacations are all about relaxing and chilling out (D)",1.7,1.4,4.2,38.1,54.6,92.7
+BR,E,I like to take risks and go to rarely visited locations on vacation (E),10.1,22.5,26.4,25.6,15.4,41.0
+BR,F,I prefer to return to familiar or trusted locations on vacation (F),2.5,10.0,23.8,40.4,23.3,63.7
+BR,G,I'm conscious of the environmental costs of travelling on vacation (G),1.6,6.0,16.1,47.1,29.2,76.3
+BR,H,I'd love to be able to travel in style when going on vacation (H),1.4,2.9,8.3,40.6,46.8,87.4
+FR,A,"I love going on vacations, it is one of the things I look forward to the most (A)",2.3,6.1,19.2,41.4,31.0,72.4
+FR,B,I find that vacations can be stressful and not always enjoyable (B),15.7,26.7,26.5,25.2,5.8,31.0
+FR,C,I really enjoy vacations that involved activities and new experiences (C),2.1,5.8,20.4,43.9,27.8,71.7
+FR,D,"For me, vacations are all about relaxing and chilling out (D)",1.1,3.8,14.2,45.5,35.4,80.9
+FR,E,I like to take risks and go to rarely visited locations on vacation (E),9.5,18.3,30.8,31.8,9.6,41.4
+FR,F,I prefer to return to familiar or trusted locations on vacation (F),4.9,13.1,34.2,35.1,12.7,47.8
+FR,G,I'm conscious of the environmental costs of travelling on vacation (G),2.9,5.0,19.6,50.2,22.4,72.6
+FR,H,I'd love to be able to travel in style when going on vacation (H),6.0,11.9,34.0,35.0,13.1,48.1
+DE,A,"I love going on vacations, it is one of the things I look forward to the most (A)",3.5,5.2,16.0,38.5,36.9,75.4
+DE,B,I find that vacations can be stressful and not always enjoyable (B),6.3,15.6,27.8,40.1,10.3,50.400000000000006
+DE,C,I really enjoy vacations that involved activities and new experiences (C),3.2,7.7,24.2,47.0,18.0,65.0
+DE,D,"For me, vacations are all about relaxing and chilling out (D)",3.9,17.8,28.7,33.6,16.1,49.7
+DE,E,I like to take risks and go to rarely visited locations on vacation (E),21.1,27.8,23.7,19.7,7.8,27.5
+DE,F,I prefer to return to familiar or trusted locations on vacation (F),2.9,14.4,35.0,33.3,14.5,47.8
+DE,G,I'm conscious of the environmental costs of travelling on vacation (G),3.5,5.7,21.5,52.0,17.3,69.3
+DE,H,I'd love to be able to travel in style when going on vacation (H),4.5,13.9,34.0,35.0,12.7,47.7
+AU,A,"I love going on vacations, it is one of the things I look forward to the most (A)",3.1,4.8,21.2,46.2,24.7,70.9
+AU,B,I find that vacations can be stressful and not always enjoyable (B),8.4,27.5,26.5,32.0,5.6,37.6
+AU,C,I really enjoy vacations that involved activities and new experiences (C),2.4,6.0,20.9,49.7,21.0,70.7
+AU,D,"For me, vacations are all about relaxing and chilling out (D)",1.1,4.5,17.6,50.8,26.0,76.8
+AU,E,I like to take risks and go to rarely visited locations on vacation (E),11.3,25.3,27.9,28.8,6.7,35.5
+AU,F,I prefer to return to familiar or trusted locations on vacation (F),2.1,11.9,32.8,43.4,9.8,53.2
+AU,G,I'm conscious of the environmental costs of travelling on vacation (G),6.1,14.5,30.2,39.0,10.2,49.2
+AU,H,I'd love to be able to travel in style when going on vacation (H),2.0,5.9,26.8,45.8,19.5,65.3
