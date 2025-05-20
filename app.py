@@ -6,7 +6,8 @@ def local_css(file_path):
         st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
 
 # CSS aktivieren
-local_css("/Users/raffaelruppert/Desktop/tourism_dashboard/styles.css")
+local_css("styles.css")
+
 
 menu_options = {
     "0. Introduction": "📘 Introduction",
