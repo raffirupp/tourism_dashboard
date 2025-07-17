@@ -3,20 +3,17 @@ import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
 from sections.utils import prepare_figure_for_export
-
-
-
+from sklearn.preprocessing import StandardScaler
+from sklearn.decomposition import PCA
+from sklearn.cluster import KMeans
 
 
 def render(_):
     st.title("Attitudes towards vacations")
 
-    # ------------------------------
-    # 1. Daten einlesen
-    # ------------------------------
+    # Daten laden
     df = pd.read_csv("data/Cleaned_Tourism_Attitudes.csv")
 
-    # Länder lesbar machen
     country_map = {
         "Total": "All Countries", "SG": "Singapore", "UK": "United Kingdom",
         "US": "United States", "CN": "China", "KR": "South Korea",
@@ -25,7 +22,6 @@ def render(_):
     }
     df["Country_clean"] = df["Country"].map(country_map)
 
-    # Abkürzungen für Statements (neu)
     short_labels = {
         "A": "Vacation as joy",
         "B": "Vacation as stress",
@@ -37,22 +33,17 @@ def render(_):
         "H": "Luxury travel"
     }
 
-    # ------------------------------
-    # 2. Radar Chart mit Multi-Select
-    # ------------------------------
+    # Radar Chart
     st.subheader("Compare agreement across countries")
 
     available_countries = df["Country"].unique()
     country_options = [country_map[c] for c in available_countries if c in country_map]
-    default_selection = ["All Countries"]
-
     selected_countries = st.multiselect(
         "Select countries to compare:",
         options=country_options,
-        default=default_selection
+        default=["All Countries"]
     )
 
-    # Duplikate entfernen
     df_unique = df.drop_duplicates(subset=["Country_clean", "Statement_Code"])
     radar_df = df_unique.pivot(index="Country_clean", columns="Statement_Code", values="Agreement")
 
@@ -61,14 +52,8 @@ def render(_):
     theta = [f"{short_labels[c]} ({c})" for c in codes]
 
     fig = go.Figure()
-    # Farbpalette definieren
-    color_sequence = [
-        "#1f77b4", "#ff7f0e", "#2ca02c", "#d62728",
-        "#9467bd", "#8c564b", "#e377c2", "#7f7f7f",
-        "#bcbd22", "#17becf"
-    ]
+    color_sequence = px.colors.qualitative.Set2
 
-    # Zeichne Radar-Spuren mit zugewiesenen Farben
     for i, country in enumerate(selected_countries):
         if country in radar_df.index:
             values = radar_df.loc[country, codes].values
@@ -83,31 +68,25 @@ def render(_):
     fig.update_layout(
         polar=dict(radialaxis=dict(visible=True, range=[0, 100])),
         title="Agreement with vacation statements by country",
-        height=650,
-        showlegend=True,
-        legend_orientation="h",
-        legend=dict(x=0.5, y=-0.2, xanchor='center')
+        height=650
     )
     st.plotly_chart(fig, use_container_width=True)
 
     radar_png = prepare_figure_for_export(fig)
-    st.download_button(
-        label="⬇️ Download Radar Chart (PNG)",
-        data=radar_png,
-        file_name="radar_vacation_attitudes.png",
-        mime="image/png"
-    )
+    if radar_png:
+        st.download_button(
+            label="⬇️ Download Radar Chart (PNG)",
+            data=radar_png,
+            file_name="radar_vacation_attitudes.png",
+            mime="image/png"
+        )
+    else:
+        st.info("PNG export not available in this environment. Please use the interactive chart above.")
 
-    # ------------------------------
-    # 3. Country Comparison (Dropdown)
-    # ------------------------------
+    # Country Comparison Barplot
     st.subheader("Compare a single statement across countries")
 
-    # Duplikate vermeiden
-    df_nodup = df.drop_duplicates(subset=["Country_clean", "Statement_Code"])
-
-    # Dropdown mit sauberen Labels (kein doppeltes (F) (F))
-    statement_options = df_nodup[["Statement_Code", "Statement_Text"]].drop_duplicates()
+    statement_options = df_unique[["Statement_Code", "Statement_Text"]].drop_duplicates()
     label_map = {
         f"{short_labels[row['Statement_Code']]} ({row['Statement_Code']})": row["Statement_Code"]
         for _, row in statement_options.iterrows()
@@ -130,57 +109,27 @@ def render(_):
     fig_bar.update_layout(showlegend=False)
     st.plotly_chart(fig_bar, use_container_width=True)
 
-    # ------------------------------
-    # 4. Legende unten anzeigen
-    # ------------------------------
-    st.markdown("""
-    <div style='font-size: 0.85em; margin-top: 2em'>
-    **Legend**  
-    - **A**: I love going on vacations, it is one of the things I look forward to the most  
-    - **B**: Vacations are stressful for me  
-    - **C**: I like to be physically active during vacations  
-    - **D**: For me, relaxing is the most important part of vacations  
-    - **E**: I enjoy taking risks or trying new things during vacations  
-    - **F**: I prefer familiar places over new destinations  
-    - **G**: Environmental impact is important to me when planning vacations  
-    - **H**: I enjoy luxury and comfort when traveling  
-    </div>
-    """, unsafe_allow_html=True)
-
-    # --- 5. Country Clusters Based on Vacation Attitudes ---
+    # Cluster Analysis
     st.subheader("🌍 Country Clusters Based on Vacation Attitudes")
 
-    from sklearn.preprocessing import StandardScaler
-    from sklearn.decomposition import PCA
-    from sklearn.cluster import KMeans
-
-
-    # Daten vorbereiten
     df_clu = df.drop_duplicates(subset=["Country", "Statement_Code"])
     df_matrix = df_clu.pivot(index="Country", columns="Statement_Code", values="Agreement").dropna()
-
-    # Länder filtern (nur echte Länder)
     df_matrix = df_matrix[~df_matrix.index.str.contains("Cluster|Total|nan", case=False)]
 
-    # Standardisierung
     scaler = StandardScaler()
     scaled = scaler.fit_transform(df_matrix)
 
-    # PCA zur Visualisierung
     pca = PCA(n_components=2)
     pca_data = pca.fit_transform(scaled)
 
-    # KMeans Clustering (k=3)
     kmeans = KMeans(n_clusters=3, n_init=10, random_state=42)
     clusters = kmeans.fit_predict(scaled)
 
-    # DataFrame für Scatterplot
     df_cluster = pd.DataFrame(pca_data, columns=["PC1", "PC2"])
     df_cluster["Country"] = df_matrix.index
     df_cluster["Cluster"] = clusters.astype(str)
 
-    # Cluster Scatterplot visualisieren
-    fig = px.scatter(
+    fig_cluster = px.scatter(
         df_cluster,
         x="PC1",
         y="PC2",
@@ -189,73 +138,37 @@ def render(_):
         title="Clusters of Countries Based on Vacation Attitudes",
         color_discrete_sequence=px.colors.qualitative.Set2
     )
-
-    fig.update_traces(
+    fig_cluster.update_traces(
         textposition="top center",
-        marker=dict(size=20, line=dict(width=2, color="black"))  # Punkte größer + Rand
+        marker=dict(size=20, line=dict(width=2, color="black"))
     )
+    st.plotly_chart(fig_cluster, use_container_width=True)
 
-    fig.update_layout(
-        height=750,
-        legend_title_text="Cluster",
-        font=dict(size=20),
-        title_font=dict(size=28),
-        legend=dict(font=dict(size=20)),
-        xaxis=dict(title_font=dict(size=22), tickfont=dict(size=18)),
-        yaxis=dict(title_font=dict(size=22), tickfont=dict(size=18))
-    )
+    cluster_png = prepare_figure_for_export(fig_cluster)
+    if cluster_png:
+        st.download_button(
+            label="⬇️ Download Cluster Chart (PNG)",
+            data=cluster_png,
+            file_name="cluster_scatter_vacation_attitudes.png",
+            mime="image/png"
+        )
+    else:
+        st.info("PNG export not available in this environment. Please use the interactive chart above.")
 
-    # Anzeigen
-    st.plotly_chart(fig, use_container_width=True)
-
-    # Export als PNG
-    cluster_png = prepare_figure_for_export(
-        fig,
-        title_size=28,
-        label_size=22,
-        tick_size=20,
-        legend_size=20,
-        width=1800,
-        height=1000,
-        scale=2
-    )
-
-    st.download_button(
-        label="⬇️ Download Cluster Chart (PNG)",
-        data=cluster_png,
-        file_name="cluster_scatter_vacation_attitudes.png",
-        mime="image/png"
-    )
-
-
-    # Clusterzentren auf Originalskala
+    # Clusterzentren
     original_centers = pd.DataFrame(
         scaler.inverse_transform(kmeans.cluster_centers_),
         columns=df_matrix.columns
     )
-
-    # Klartext-Labels
-    short_labels = {
-        "A": "Vacation as joy",
-        "B": "Vacation as stress",
-        "C": "Active vacations",
-        "D": "Relaxed vacations",
-        "E": "Risk-taking",
-        "F": "Familiar places",
-        "G": "Eco-conscious",
-        "H": "Luxury travel"
-    }
     original_centers.rename(columns=short_labels, inplace=True)
     original_centers.index.name = "Cluster"
 
     st.markdown("### 🔍 Cluster Characteristics (Average Agreement per Statement)")
     st.dataframe(original_centers.style.highlight_max(axis=0, color="lightgreen"))
 
-    # --- 6. Cluster Radar & Interpretation ---
+    # Cluster Profiles Radar
     st.subheader("📊 Cluster Profiles (Radar View)")
 
-
-    # Clusterzentren in Originalskala verwenden
     categories = list(original_centers.columns)
     radar_fig = go.Figure()
 
@@ -276,49 +189,20 @@ def render(_):
     )
     st.plotly_chart(radar_fig, use_container_width=True)
 
-    # Download als PNG für Radar Chart
-    radar_png = prepare_figure_for_export(
-        radar_fig,
-        title_size=28,
-        label_size=22,
-        tick_size=20,
-        legend_size=20,
-        width=1800,
-        height=1000,
-        scale=2
-    )
+    radar_cluster_png = prepare_figure_for_export(radar_fig)
+    if radar_cluster_png:
+        st.download_button(
+            label="⬇️ Download Cluster Radar Chart (PNG)",
+            data=radar_cluster_png,
+            file_name="cluster_radar_vacation_attitudes.png",
+            mime="image/png"
+        )
+    else:
+        st.info("PNG export not available in this environment. Please use the interactive chart above.")
 
-    st.download_button(
-        label="⬇️ Download Cluster Radar Chart (PNG)",
-        data=radar_png,
-        file_name="cluster_radar_vacation_attitudes.png",
-        mime="image/png"
-    )
-
-    # Erklärung zur Methode
+    # Method Note
     st.markdown("""
     ### 📘 Methodological Note
 
-    To ensure fair clustering across countries, we first applied **z-score normalization** to each country's answers.  
-    This avoids countries with generally higher agreement levels (e.g., those consistently rating all statements highly) from dominating the cluster assignment.
-
-    Clustering was then performed on these standardized profiles using **KMeans (k=3)**, followed by **PCA** to allow 2D visualization.
-
-    The radar chart above shows the **mean agreement levels** for each cluster — highlighting typical attitude patterns.
+    Clustering was based on z-score normalized agreement profiles. PCA was used for 2D visualization.
     """)
-
-    # PCA-Loadings (einklappbar)
-    loadings = pd.DataFrame({
-        "PC1": [0.399, -0.228, 0.414, 0.295, 0.404, 0.330, 0.306, 0.407],
-        "PC2": [0.188, 0.549, -0.239, 0.344, -0.049, 0.523, -0.453, 0.082]
-    }, index=[
-        "Vacation as joy", "Vacation as stress", "Active vacations", "Relaxed vacations",
-        "Risk-taking", "Familiar places", "Eco-conscious", "Luxury travel"
-    ])
-
-    with st.expander("🔍 View PCA Loadings (Variable Influence on PC1/PC2)"):
-        st.dataframe(loadings.round(3).style.highlight_max(axis=0, color="lightgreen"))
-
-
-
-

@@ -11,20 +11,11 @@ def prepare_figure_for_export(
     width: int = 1600,
     height: int = 900,
     scale: int = 2,
-    colorway: list[str] | None = None
-) -> bytes:
+    colorway=None
+):
     """
     Optimiert ein Plotly-Figure-Objekt für Export (z. B. für PowerPoint) und gibt ein PNG-Byte-Objekt zurück.
-
-    Parameter:
-    - fig: Plotly-Figure
-    - title_size, label_size, tick_size, legend_size: Schriftgrößen in px
-    - width, height: Pixelmaße des Bildes
-    - scale: Skalierungsfaktor für hohe Auflösung
-    - colorway: Optionales Farbset für alle Spuren
-
-    Rückgabe:
-    - PNG als Byte-Objekt
+    Gibt None zurück, wenn der Export fehlschlägt (z.B. auf Streamlit Cloud ohne Chromium).
     """
     fig.update_layout(
         font=dict(size=label_size, color="black"),
@@ -43,7 +34,12 @@ def prepare_figure_for_export(
         paper_bgcolor="white",
         margin=dict(t=80, b=140, r=120)
     )
+
     if colorway:
         fig.update_layout(colorway=colorway)
 
-    return fig.to_image(format="png", width=width, height=height, scale=scale)
+    try:
+        return fig.to_image(format="png", width=width, height=height, scale=scale)
+    except Exception as e:
+        print(f"PNG export failed: {e}")
+        return None

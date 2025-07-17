@@ -65,12 +65,15 @@ def render(sociodemo_df):
 
     # ⬇️ Download Gender Chart
     gender_png = prepare_figure_for_export(fig_gender)
-    st.download_button(
-        label="⬇️ Download Gender Chart (PNG)",
-        data=gender_png,
-        file_name="gender_chart.png",
-        mime="image/png"
-    )
+    if gender_png:
+        st.download_button(
+            label="⬇️ Download Gender Chart (PNG)",
+            data=gender_png,
+            file_name="gender_chart.png",
+            mime="image/png"
+        )
+    else:
+        st.info("PNG export not available in this environment. Please use the interactive chart above.")
 
     # AGE ==========================================
     st.subheader("Age distribution – Total sample")
@@ -97,12 +100,15 @@ def render(sociodemo_df):
     st.plotly_chart(fig_age, use_container_width=True)
 
     # ⬇️ Download Age Chart
-    age_png = fig_age.to_image(format="png", width=1600, height=900, scale=2)
-    st.download_button(
-        label="⬇️ Download Age Chart (PNG)",
-        data=age_png,
-        file_name="age_chart.png",
-        mime="image/png"
-    )
+    age_png = prepare_figure_for_export(fig_age)
+    if age_png:
+        st.download_button(
+            label="⬇️ Download Age Chart (PNG)",
+            data=age_png,
+            file_name="age_chart.png",
+            mime="image/png"
+        )
+    else:
+        st.info("PNG export not available in this environment. Please use the interactive chart above.")
 
     st.markdown("> The age and gender distribution has been checked for quota fulfilment and reflects the general population structure of each country. Exceptions are the Gender distribution of South Korea and United Arab Emirates.")
