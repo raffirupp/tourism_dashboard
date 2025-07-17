@@ -2,7 +2,52 @@ import streamlit as st
 from PIL import Image
 
 def run():
-    st.title("🗺️ Introduction: International Tourism Survey 2025")
+    st.title("🗺️ Introduction: International Tourism Survey")
+
+    st.markdown("""
+    This is a **demonstration dashboard** developed by *Raffael Ruppert (Research & Data Scientist)* to showcase survey data analysis based on an international tourism survey example.
+
+    The data used in this dashboard is exemplary and designed for methodological exploration rather than commercial insights. The dataset has been adapted for educational and demonstration purposes only.
+    """)
+
+    # Kacheln für Methodologies und Visualizations
+    col1, col2 = st.columns(2)
+
+    with col1:
+        st.markdown("### 🔬 Methodologies Applied")
+        st.markdown("""
+        - Z-Test (significance testing)  
+        - Max-Diff-Analysis  
+        - K-Means Clustering with PCA loadings and Z-Score Normalization  
+        - Dendrogram-based country clustering  
+        - NPS (Net Promoter Score) Calculation  
+        - Boxplot Analysis
+        """)
+
+    with col2:
+        st.markdown("### 📊 Visualization Types")
+        st.markdown("""
+        - Bar Plots  
+        - Histograms  
+        - Radar Charts  
+        - Boxplots
+        """)
+
+    # Optional: Zusatzkachel für Packages
+    with st.expander("📦 Technical Stack and Packages"):
+        st.markdown("""
+        - **Programming Language:** Python  
+        - **Deployment:** Streamlit Cloud  
+        
+        **Key Packages:**  
+        - streamlit  
+        - pandas  
+        - plotly  
+        - scikit-learn  
+        - scipy  
+        - openpyxl  
+        - kaleido (for static plot exports)
+        """)
 
     # Zwei nebeneinanderliegende Kacheln
     col1, col2 = st.columns(2)
@@ -104,4 +149,4 @@ def run():
     📧 [raffael.ruppert@sciencespo.fr](mailto:raffael.ruppert@sciencespo.fr)  
     """)
 
-    st.caption("This dashboard was developed using Streamlit and Plotly. ChatGPT was used for Code improvement and debugging.")
+    st.caption("This dashboard was developed using Streamlit and Plotly. ChatGPT was used for Code improvement and debugging. The dataset is derived from an anonymized and illustrative survey example, originally prepared for a job interview task.")
